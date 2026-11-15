@@ -11,7 +11,7 @@ Cyberpunk VR Port, NightCoop co-op, and a set of QoL/tweak mods.
 4. It downloads and installs everything automatically.
 
 Run `install.bat` again any time to update — if you're already on the latest
-version it just says "You're up to date!".
+version (and have all the latest files) it just says "You're up to date!".
 
 ## How it works
 
