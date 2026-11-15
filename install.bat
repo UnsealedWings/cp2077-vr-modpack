@@ -123,6 +123,14 @@ if exist "!CPDIR!\!MARKER!" (
   robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
 )
 
+:: --- VR tuning configs (always re-pushed so tuning updates reach everyone) ---
+robocopy "!EXTRACTED!\configs\red4ext\plugins\cyberpunkvrport\config" "!CPDIR!\red4ext\plugins\cyberpunkvrport\config" vrport.ini physhands.ini /NFL /NDL /NJH /NJS /NP >nul
+
+:: --- First install: trigger the VR port's one-time setup (UserSettings merge) ---
+if not exist "!CPDIR!\!MARKER!" (
+  powershell -NoProfile -Command "$p='!CPDIR!\red4ext\plugins\cyberpunkvrport\config\vrport.ini'; if (Test-Path $p) { $c = Get-Content $p; $c = $c -replace '^first_launch=.*$','first_launch=1'; Set-Content $p $c }"
+)
+
 :: --- Record installed version ---
 > "!CPDIR!\!MARKER!" echo !LATEST!
 
