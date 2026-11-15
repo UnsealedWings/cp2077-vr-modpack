@@ -24,13 +24,6 @@ modpack and applies it.
   into the game folder. On later runs that marker exists, so it **skips the
   configs** and only updates the mod files — your own settings are preserved.
 
-## How the owner updates it
-
-1. Edit the mod files / configs in this repo (or regenerate `files/` and
-   `configs/` from your game folder).
-2. Commit and push to `main`.
-3. Everyone just re-runs `install.bat`.
-
 ## Hosting
 
 The `install.bat` downloads the repo as a ZIP, so it works with GitHub (or any
