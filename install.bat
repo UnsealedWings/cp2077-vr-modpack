@@ -90,8 +90,15 @@ if not defined EXTRACTED (
 echo   [3/5] Installing mod files...
 if "!VR!"=="1" (
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
+  :: VR included -> remove standalone redscript so the VR port's bundled redscript is used
+  del /q "!CPDIR!\engine\tools\scc.exe" 2>nul
+  del /q "!CPDIR!\engine\tools\scc_lib.dll" 2>nul
+  del /q "!CPDIR!\engine\config\base\scripts.ini" 2>nul
+  del /q "!CPDIR!\r6\config\cybercmd\scc.toml" 2>nul
 ) else (
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP /XD cyberpunkvrport >nul
+  :: VR excluded -> install standalone redscript so the other mods can run
+  robocopy "!EXTRACTED!\redscript" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
 )
 
 :: --- Decompress VR archive (only when VR included) ---

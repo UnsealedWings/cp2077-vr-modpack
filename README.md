@@ -24,8 +24,11 @@ version (and have all the latest files) it just says "You're up to date!".
   configs** and only updates the mod files — your own settings are preserved.
 - The installer checks the latest version first; if it matches what's
   installed it just says "You're up to date!" and exits.
-- The VR prompt (`1` = full modpack with VR, `2` = everything except VR)
-  skips the `cyberpunkvrport` plugin when you pick `2`.
+- The VR prompt (`1` = full modpack with VR, `2` = everything except VR):
+  - `1` installs the VR port (which bundles redscript) and removes any
+    standalone redscript.
+  - `2` skips the VR port and installs a standalone redscript instead, so the
+    other mods still work.
 
 ## Hosting
 
