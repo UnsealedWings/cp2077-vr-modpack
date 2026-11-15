@@ -105,12 +105,12 @@ if "!VR!"=="1" (
 
 :: --- Decompress RED4ext address database (required by RED4ext in both modes) ---
 echo   [3/5] Extracting RED4ext address database...
-powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\bin\x64\cyberpunk2077_addresses.json.gz'; $a='!CPDIR!\bin\x64\cyberpunk2077_addresses.json'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($o,[IO.Compression.CompressionMode]::Decompress); $i.CopyTo($z); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
+powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\bin\x64\cyberpunk2077_addresses.json.gz'; $a='!CPDIR!\bin\x64\cyberpunk2077_addresses.json'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($i,[IO.Compression.CompressionMode]::Decompress); $z.CopyTo($o); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
 
 :: --- Decompress VR archive (only when VR included) ---
 if "!VR!"=="1" (
   echo   [4/5] Finalizing VR archive...
-  powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive.gz'; $a='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($o,[IO.Compression.CompressionMode]::Decompress); $i.CopyTo($z); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
+  powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive.gz'; $a='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($i,[IO.Compression.CompressionMode]::Decompress); $z.CopyTo($o); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
 ) else (
   echo   [4/5] Skipping VR archive (VR excluded).
 )
