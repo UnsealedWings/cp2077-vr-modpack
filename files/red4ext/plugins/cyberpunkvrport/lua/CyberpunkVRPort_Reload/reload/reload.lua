@@ -4771,7 +4771,10 @@ function M.frame(weapon, slotComp, holder, dt)
                 else
                     seatNow = (seenD >= 0 and seenD <= (mc.seatRadius or 0.03))
                 end
-                if magS.armed and grip and seatNow then
+                -- The magazine seats on EITHER of: a grip still held once it is deep enough (the auto-finish
+                -- at `seatAt`), OR the player letting go while the magnet is still pulling it in -- however deep
+                -- it got then. The release clause keeps a shallow insertion from being dropped.
+                if magS.armed and ((grip and seatNow) or (not grip and insW > 0)) then
                     -- THE GUN MAY TAKE IT FROM HERE. On the Kang Tao Chao the game's own hand lets go 58 mm short
                     -- and the magazine covers the rest by itself -- so seating it on the spot is a teleport, which
                     -- is exactly what it looked like. With `selfSeat` the hand is freed at once and the magazine
