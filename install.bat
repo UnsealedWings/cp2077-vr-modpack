@@ -4,7 +4,7 @@ title Cyberpunk 2077 VR Modpack - Installer / Updater
 
 :: ================= CONFIG =================
 :: Point this at wherever you host the modpack repo.
-set "REPO_URL=https://github.com/YOUR_USERNAME/cp2077-vr-modpack/archive/refs/heads/main.zip"
+set "REPO_URL=https://github.com/UnsealedWings/cp2077-vr-modpack/archive/refs/heads/main.zip"
 :: ==========================================
 
 set "MARKER=.cp2077_vr_modpack_installed"
