@@ -1,0 +1,1 @@
+boneCount=295 parentCount=295 head=22 rightHand=24 leftHand=23 rightArm=18 rightForeArm=21 leftArm=17 leftForeArm=20 spineCount=4

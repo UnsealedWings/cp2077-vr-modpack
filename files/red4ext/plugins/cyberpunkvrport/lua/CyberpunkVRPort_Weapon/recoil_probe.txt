@@ -1,0 +1,2488 @@
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10000761ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10000761ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Military
+key=Items.Preset_Carnage_Military kick=12 wid=10007323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Military
+key=Items.Preset_Carnage_Military kick=12 wid=10007323ULL cls=3 type=ItemType.Wea_Shotgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Military
+key=Items.Preset_Carnage_Military kick=12 wid=10007323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Military
+key=Items.Preset_Carnage_Military kick=12 wid=10007323ULL cls=3 type=ItemType.Wea_Shotgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10006721ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012587ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012587ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10012583ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10012583ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10012583ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10012583ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity_Cutscene
+key=Items.Preset_V_Unity_Cutscene kick=0.87 wid=10019222ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity_Cutscene
+key=Items.Preset_V_Unity_Cutscene kick=0.87 wid=10019222ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10012586ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10012586ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity_Cutscene
+key=Items.Preset_V_Unity_Cutscene kick=0.87 wid=10024737ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity_Cutscene
+key=Items.Preset_V_Unity_Cutscene kick=0.87 wid=10024737ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10012584ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10012586ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10012586ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10013999ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10025451ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10025452ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10025449ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10026235ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10039109ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10039109ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10039109ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10039109ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10039432ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10039107ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10042376ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10042376ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10042376ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10042376ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10042379ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10042379ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10042380ULL cls=5 type=ItemType.Wea_Fists
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10042378ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043793ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043793ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043792ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043792ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043821ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043821ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043806ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043806ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043808ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043808ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043805ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043800ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043800ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043800ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Q001_Lexington
+key=Items.Preset_Q001_Lexington kick=1 wid=10043800ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10043801ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10043803ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=3 type=ItemType.Wea_Shotgun key=Items.Preset_Carnage_Default
+key=Items.Preset_Carnage_Default kick=12 wid=10047323ULL cls=3 type=ItemType.Wea_Shotgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10043804ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10043804ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10043804ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10043804ULL cls=5 type=ItemType.Wea_Fists
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10049475ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10048849ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10049471ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10051299ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10051301ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10051302ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063105ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063105ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063105ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063105ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Military
+key=Items.Preset_Umbra_Military kick=0.9 wid=10063862ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10066229ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Knife_Default
+key=Items.Preset_Knife_Default kick=1 wid=10063861ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10067932ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10067932ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10063863ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10067932ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10067932ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10067907ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10070466ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10070468ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10070468ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10070468ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10070468ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Military
+key=Items.Preset_Masamune_Military kick=1.2 wid=10072288ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Military
+key=Items.Preset_Masamune_Military kick=1.2 wid=10072288ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10076875ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_V_Unity
+key=Items.Preset_V_Unity kick=0.87 wid=10076875ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10074536ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10074536ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10074536ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.w_melee_004__fists_a
+key=Items.w_melee_004__fists_a kick=1 wid=10074536ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077026ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077857ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10077857ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Saburo
+key=Items.Preset_Katana_Saburo kick=1 wid=10077190ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Chainsword key=Items.Preset_Chainsword_Neon
+key=Items.Preset_Chainsword_Neon kick=1 wid=10078113ULL cls=5 type=ItemType.Wea_Chainsword
+class=5 type=ItemType.Wea_Chainsword key=Items.Preset_Chainsword_Neon
+key=Items.Preset_Chainsword_Neon kick=1 wid=10078113ULL cls=5 type=ItemType.Wea_Chainsword
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10077198ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10077198ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10077198ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10077198ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10077358ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10077597ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Fists key=Items.replacer_w_melee_004__fists_a
+key=Items.replacer_w_melee_004__fists_a kick=1 wid=10082399ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.replacer_w_melee_004__fists_a
+key=Items.replacer_w_melee_004__fists_a kick=1 wid=10082399ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Fists key=Items.replacer_w_melee_004__fists_a
+key=Items.replacer_w_melee_004__fists_a kick=1 wid=10082399ULL cls=5 type=ItemType.Wea_Fists
+class=5 type=ItemType.Wea_Fists key=Items.replacer_w_melee_004__fists_a
+key=Items.replacer_w_melee_004__fists_a kick=1 wid=10082399ULL cls=5 type=ItemType.Wea_Fists
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Silverhand_3516
+key=Items.Preset_Silverhand_3516 kick=1.9 wid=10082413ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.q101_takemura_chase_kenshin
+key=Items.q101_takemura_chase_kenshin kick=0.8 wid=10083125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.q101_takemura_chase_kenshin
+key=Items.q101_takemura_chase_kenshin kick=0.8 wid=10083125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.q101_takemura_chase_kenshin
+key=Items.q101_takemura_chase_kenshin kick=0.8 wid=10083125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.q101_takemura_chase_kenshin
+key=Items.q101_takemura_chase_kenshin kick=0.8 wid=10083125ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10081843ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10081843ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10085953ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10085953ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10081843ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10081843ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10088884ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10088884ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10088884ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10088884ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10088883ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10090518ULL cls=5 type=ItemType.Wea_Katana
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10088881ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098776ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098776ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098776ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098776ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10098778ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10098778ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098778ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098778ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098778ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098778ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10098775ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10100345ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10100345ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10098777ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Arasaka_2077_Unbreakable
+key=Items.Preset_Masamune_Arasaka_2077_Unbreakable kick=1.2 wid=10098777ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10108504ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Guillotine_Default
+key=Items.Preset_Guillotine_Default kick=0.65 wid=10108504ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10100955ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10108530ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10109881ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Tanto_Saburo
+key=Items.Preset_Tanto_Saburo kick=1 wid=10109883ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10109880ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110976ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110976ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10110964ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10110966ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10112379ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2020
+key=Items.Preset_Nue_Arasaka_2020 kick=3.2 wid=10112379ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Umbra_Default
+key=Items.Preset_Umbra_Default kick=0.9 wid=10112381ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112464ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112464ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112727ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112727ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112727ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable
+key=Items.Preset_Saratoga_Arasaka_2077_Unbreakable kick=0.6 wid=10112727ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Military
+key=Items.Preset_Masamune_Military kick=1.2 wid=10112850ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Masamune_Military
+key=Items.Preset_Masamune_Military kick=1.2 wid=10112850ULL cls=2 type=ItemType.Wea_Rifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Ashura_Default
+key=Items.Preset_Ashura_Default kick=1 wid=10112854ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Ashura_Default
+key=Items.Preset_Ashura_Default kick=1 wid=10112854ULL cls=4 type=ItemType.Wea_SniperRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10112726ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10112726ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10112783ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10112783ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10112783ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10112783ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10112863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10112863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10112863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10112863ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113147ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113556ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113556ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113556ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Liberty_Yorinobu
+key=Items.Preset_Liberty_Yorinobu kick=2 wid=10113556ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10113677ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10113677ULL cls=5 type=ItemType.Wea_Knife
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10113677ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10113677ULL cls=5 type=ItemType.Wea_Knife
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10113674ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10113786ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10121623ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10121623ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10121621ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10121621ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10121623ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10121623ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122150ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122150ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122150ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122150ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122156ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122156ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122152ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122152ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122154ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122154ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=4 type=ItemType.Wea_PrecisionRifle key=Items.Preset_Achilles_Nash
+key=Items.Preset_Achilles_Nash kick=2 wid=10122153ULL cls=4 type=ItemType.Wea_PrecisionRifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Arasaka_2077
+key=Items.Preset_Nue_Arasaka_2077 kick=3.2 wid=10122151ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10122154ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10122154ULL cls=5 type=ItemType.Wea_Knife
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10134489ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137125ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137139ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137139ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10137092ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10142668ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10142668ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10142668ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10142668ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10146284ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10146284ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10146284ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10146284ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10148062ULL cls=5 type=ItemType.Wea_Katana
+class=5 type=ItemType.Wea_Katana key=Items.Preset_Katana_Neon_03
+key=Items.Preset_Katana_Neon_03 kick=1 wid=10148062ULL cls=5 type=ItemType.Wea_Katana
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148059ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148059ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148093ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148093ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148095ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148095ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10148114ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10148112ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10150906ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10151425ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10151425ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10151424ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10151425ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10151425ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Pimp
+key=Items.Preset_Nue_Pimp kick=3.2 wid=10152020ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Copperhead_Default
+key=Items.Preset_Copperhead_Default kick=0.9 wid=10152022ULL cls=2 type=ItemType.Wea_Rifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157143ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157143ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10152389ULL cls=4 type=ItemType.Wea_SniperRifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Default
+key=Items.Preset_Yukimura_Default kick=0.7 wid=10158154ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10157058ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10157058ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10157058ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10157058ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10158510ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10157408ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10161631ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10161631ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10161632ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10161631ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10161631ULL cls=2 type=ItemType.Wea_Rifle
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=5 type=ItemType.Wea_Knife key=Items.Preset_Neurotoxin_Knife_Default
+key=Items.Preset_Neurotoxin_Knife_Default kick=1 wid=10161634ULL cls=5 type=ItemType.Wea_Knife
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10164824ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10164824ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10164824ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10164824ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10165395ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10165395ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10165395ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_Rifle key=Items.Preset_Ajax_Pimp
+key=Items.Preset_Ajax_Pimp kick=1.3 wid=10165395ULL cls=2 type=ItemType.Wea_Rifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10165397ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10176634ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Revolver key=Items.Preset_Overture_Default
+key=Items.Preset_Overture_Default kick=4 wid=10182464ULL cls=1 type=ItemType.Wea_Revolver
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191053ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191053ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191089ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191089ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Nue_Default
+key=Items.Preset_Nue_Default kick=3.2 wid=10186788ULL cls=1 type=ItemType.Wea_Handgun
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191115ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191115ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191709ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191709ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191959ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10191959ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10177203ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10187244ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201650ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201650ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201791ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201791ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201794ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201794ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201881ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201881ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201886ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201886ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201889ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201889ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201986ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10201986ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10200085ULL cls=4 type=ItemType.Wea_SniperRifle
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10200087ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10203106ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10203106ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10203168ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10203168ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10205767ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10205767ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10205837ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=5 type=ItemType.Cyb_MantisBlades key=Items.AdvancedMantisBladesUncommon
+key=Items.AdvancedMantisBladesUncommon kick=1 wid=10205837ULL cls=5 type=ItemType.Cyb_MantisBlades
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=2 type=ItemType.Wea_SubmachineGun key=Items.Preset_Saratoga_Raffen
+key=Items.Preset_Saratoga_Raffen kick=0.6 wid=10204228ULL cls=2 type=ItemType.Wea_SubmachineGun
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10204227ULL cls=4 type=ItemType.Wea_SniperRifle
+class=4 type=ItemType.Wea_SniperRifle key=Items.Preset_Grad_Panam
+key=Items.Preset_Grad_Panam kick=8 wid=10204227ULL cls=4 type=ItemType.Wea_SniperRifle
+class=3 type=ItemType.Wea_ShotgunDual key=Items.Preset_Psycho_ma_wat_nid_22_mid
+key=Items.Preset_Psycho_ma_wat_nid_22_mid kick=8 wid=10214021ULL cls=3 type=ItemType.Wea_ShotgunDual
+class=3 type=ItemType.Wea_ShotgunDual key=Items.Preset_Psycho_ma_wat_nid_22_mid
+key=Items.Preset_Psycho_ma_wat_nid_22_mid kick=8 wid=10214021ULL cls=3 type=ItemType.Wea_ShotgunDual
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Neon
+key=Items.Preset_Yukimura_Neon kick=0.7 wid=10214034ULL cls=1 type=ItemType.Wea_Handgun
+class=1 type=ItemType.Wea_Handgun key=Items.Preset_Yukimura_Neon
+key=Items.Preset_Yukimura_Neon kick=0.7 wid=10214034ULL cls=1 type=ItemType.Wea_Handgun

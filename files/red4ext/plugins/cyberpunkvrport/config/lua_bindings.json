@@ -1,0 +1,12 @@
+{
+    "CyberpunkVRPort_Stereo": {
+        "vrcam_reload_selection": 0
+    },
+    "CyberpunkVRPort_VRIK": {
+        "LogVRDiag": 0,
+        "ToggleVRHands": 0
+    },
+    "cet": {
+        "overlay_key": 40813871623045120
+    }
+}
