@@ -5,14 +5,13 @@ Cyberpunk VR Port, NightCoop co-op, and a set of QoL/tweak mods.
 
 ## How to install (for players)
 
-1. Download **`install.bat`** (ask the modpack owner for the link, or grab it
-   from this repo).
-2. Double-click it. You can also drag your `Cyberpunk 2077` folder onto it.
-3. It will ask for your Cyberpunk 2077 folder, then download and install
-   everything automatically.
+1. Download **`install.bat`** and place it inside your `Cyberpunk 2077` folder.
+2. Double-click it **from inside the game folder**.
+3. Choose `1` (full modpack with VR) or `2` (everything except VR).
+4. It downloads and installs everything automatically.
 
-Run the same `install.bat` again any time to update — it pulls the latest
-modpack and applies it.
+Run `install.bat` again any time to update — if you're already on the latest
+version it just says "You're up to date!".
 
 ## How it works
 
@@ -23,6 +22,10 @@ modpack and applies it.
 - On first install it writes a marker file `.cp2077_vr_modpack_installed`
   into the game folder. On later runs that marker exists, so it **skips the
   configs** and only updates the mod files — your own settings are preserved.
+- The installer checks the latest version first; if it matches what's
+  installed it just says "You're up to date!" and exits.
+- The VR prompt (`1` = full modpack with VR, `2` = everything except VR)
+  skips the `cyberpunkvrport` plugin when you pick `2`.
 
 ## Hosting
 

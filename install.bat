@@ -3,13 +3,17 @@ setlocal enabledelayedexpansion
 title Cyberpunk 2077 VR Modpack - Installer / Updater
 
 :: ================= CONFIG =================
-:: Point this at wherever you host the modpack repo.
-set "REPO_URL=https://github.com/UnsealedWings/cp2077-vr-modpack/archive/refs/heads/main.zip"
+set "REPO_ZIP=https://github.com/UnsealedWings/cp2077-vr-modpack/archive/refs/heads/main.zip"
+set "VERSION_URL=https://raw.githubusercontent.com/UnsealedWings/cp2077-vr-modpack/main/version.txt"
 :: ==========================================
 
 set "MARKER=.cp2077_vr_modpack_installed"
 set "ZIP=%TEMP%\cp2077-vr-modpack.zip"
 set "TMP=%TEMP%\cp2077-vr-modpack"
+
+:: The game folder is wherever this BAT is located.
+set "CPDIR=%~dp0"
+if "!CPDIR:~-1!"=="\" set "CPDIR=!CPDIR:~0,-1!"
 
 echo.
 echo  ==================================================
@@ -17,69 +21,102 @@ echo    Cyberpunk 2077 VR Modpack - Installer / Updater
 echo  ==================================================
 echo.
 
-:: --- 1. Cyberpunk folder (drag-and-drop or typed) ---
-if "%~1" neq "" set "CPDIR=%~1"
-if defined CPDIR goto validatedir
-
-:askdir
-set "CPDIR="
-set /p "CPDIR=Enter your Cyberpunk 2077 folder path: "
-if not defined CPDIR goto askdir
-
-:validatedir
-if "!CPDIR:~-1!"=="\" set "CPDIR=!CPDIR:~0,-1!"
 if not exist "!CPDIR!\bin\x64\Cyberpunk2077.exe" (
+  echo   [ERROR] Run this BAT from inside the Cyberpunk 2077
+  echo   directory. Place install.bat in your game folder:
+  echo     ...\Cyberpunk 2077\
+  echo   and double-click it there.
   echo.
-  echo   [ERROR] bin\x64\Cyberpunk2077.exe not found in:
-  echo     "!CPDIR!"
-  echo   Please enter the correct full folder path.
-  echo.
-  goto askdir
+  pause
+  exit /b 1
 )
-echo.
-echo   Target: "!CPDIR!"
+echo   Game folder: "!CPDIR!"
 echo.
 
-:: --- 2. Download latest ---
-echo   [1/5] Downloading latest modpack...
+:: --- Check for updates ---
+echo   Checking for updates...
+powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%VERSION_URL%' -OutFile '%TEMP%\cp2077-version.txt' -UseBasicParsing; exit 0 } catch { exit 1 }"
+if errorlevel 1 (
+  echo   [ERROR] Could not reach the update server.
+  goto fail
+)
+
+set "LATEST="
+set /p "LATEST=" < "%TEMP%\cp2077-version.txt"
+set "INSTALLED="
+if exist "!CPDIR!\!MARKER!" set /p "INSTALLED=" < "!CPDIR!\!MARKER!"
+
+if "!INSTALLED!"=="!LATEST!" (
+  echo.
+  echo   You're up to date!
+  echo.
+  del /q "%TEMP%\cp2077-version.txt" 2>nul
+  pause
+  exit /b 0
+)
+
+:: --- VR choice ---
+echo.
+echo   Choose what to install:
+echo     [1] Full modpack (with Cyberpunk VR)
+echo     [2] Everything except VR
+echo.
+:vrchoice
+set /p "CHOICE=  Enter 1 or 2: "
+if "!CHOICE!"=="1" ( set "VR=1" ) else if "!CHOICE!"=="2" ( set "VR=0" ) else ( goto vrchoice )
+
+:: --- Download ---
+echo.
+echo   [1/5] Downloading modpack...
 if exist "!TMP!" rmdir /s /q "!TMP!"
 if exist "!ZIP!" del /q "!ZIP!"
-powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%REPO_URL%' -OutFile '!ZIP!' -UseBasicParsing; exit 0 } catch { exit 1 }"
+powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%REPO_ZIP%' -OutFile '!ZIP!' -UseBasicParsing; exit 0 } catch { exit 1 }"
 if errorlevel 1 (
   echo   [ERROR] Download failed. Check your internet connection.
   goto fail
 )
 
-:: --- 3. Extract ---
+:: --- Extract ---
 echo   [2/5] Extracting...
 powershell -NoProfile -Command "Expand-Archive -LiteralPath '!ZIP!' -DestinationPath '!TMP!' -Force"
 set "EXTRACTED="
 for /d %%d in ("!TMP!\*") do set "EXTRACTED=%%d"
 if not defined EXTRACTED (
-  echo   [ERROR] Could not find the extracted modpack folder.
+  echo   [ERROR] Could not find the extracted modpack.
   goto fail
 )
 
-:: --- 4. Copy mod files ---
+:: --- Copy ---
 echo   [3/5] Installing mod files...
-robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
+if "!VR!"=="1" (
+  robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
+) else (
+  robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP /XD cyberpunkvrport >nul
+)
 
-:: --- 5. Decompress VR archive ---
-echo   [4/5] Finalizing VR archive...
-powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive.gz'; $a='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($o,[IO.Compression.CompressionMode]::Decompress); $i.CopyTo($z); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
+:: --- Decompress VR archive (only when VR included) ---
+if "!VR!"=="1" (
+  echo   [4/5] Finalizing VR archive...
+  powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive.gz'; $a='!CPDIR!\red4ext\plugins\cyberpunkvrport\archive\cyberpunkvrport.archive'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($o,[IO.Compression.CompressionMode]::Decompress); $i.CopyTo($z); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
+) else (
+  echo   [4/5] Skipping VR archive (VR excluded).
+)
 
-:: --- 6. Configs (first install only) ---
+:: --- Configs (first install only) ---
 if exist "!CPDIR!\!MARKER!" (
-  echo   [5/5] Update detected - keeping your existing configs.
+  echo   [5/5] Update - keeping your existing configs.
 ) else (
   echo   [5/5] First install - applying default configs...
   robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
-  echo installed> "!CPDIR!\!MARKER!"
 )
+
+:: --- Record installed version ---
+> "!CPDIR!\!MARKER!" echo !LATEST!
 
 :: --- cleanup ---
 rmdir /s /q "!TMP!" 2>nul
 del /q "!ZIP!" 2>nul
+del /q "%TEMP%\cp2077-version.txt" 2>nul
 
 echo.
 echo  ==================================================
@@ -91,7 +128,7 @@ exit /b 0
 
 :fail
 echo.
-echo  [ERROR] Installation failed. See the messages above.
+echo  [ERROR] Installation failed. See messages above.
 echo.
 pause
 exit /b 1
