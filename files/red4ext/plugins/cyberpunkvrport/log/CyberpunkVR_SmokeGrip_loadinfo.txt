@@ -1,1 +1,0 @@
-resolvedR=19 resolvedL=19 loadedR=19 loadedL=19 cig=1 lighter=1
