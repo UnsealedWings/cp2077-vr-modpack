@@ -67,10 +67,10 @@ if "!CHOICE!"=="1" ( set "VR=1" ) else if "!CHOICE!"=="2" ( set "VR=0" ) else ( 
 
 :: --- Download ---
 echo.
-echo   [1/5] Downloading modpack...
+echo   [1/5] Downloading modpack (this can take a few minutes)...
 if exist "!TMP!" rmdir /s /q "!TMP!"
 if exist "!ZIP!" del /q "!ZIP!"
-powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%REPO_ZIP%' -OutFile '!ZIP!' -UseBasicParsing; exit 0 } catch { exit 1 }"
+curl.exe -L -s --retry 3 -o "!ZIP!" "%REPO_ZIP%"
 if errorlevel 1 (
   echo   [ERROR] Download failed. Check your internet connection.
   goto fail
@@ -78,7 +78,9 @@ if errorlevel 1 (
 
 :: --- Extract ---
 echo   [2/5] Extracting...
-powershell -NoProfile -Command "Expand-Archive -LiteralPath '!ZIP!' -DestinationPath '!TMP!' -Force"
+if exist "!TMP!" rmdir /s /q "!TMP!"
+mkdir "!TMP!"
+tar -xf "!ZIP!" -C "!TMP!"
 set "EXTRACTED="
 for /d %%d in ("!TMP!\*") do set "EXTRACTED=%%d"
 if not defined EXTRACTED (
@@ -100,6 +102,10 @@ if "!VR!"=="1" (
   :: VR excluded -> install standalone redscript so the other mods can run
   robocopy "!EXTRACTED!\redscript" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
 )
+
+:: --- Decompress RED4ext address database (required by RED4ext in both modes) ---
+echo   [3/5] Extracting RED4ext address database...
+powershell -NoProfile -Command "Add-Type -AssemblyName System.IO.Compression; $g='!CPDIR!\bin\x64\cyberpunk2077_addresses.json.gz'; $a='!CPDIR!\bin\x64\cyberpunk2077_addresses.json'; if (Test-Path $g) { $i=[IO.File]::OpenRead($g); $o=[IO.File]::Create($a); $z=New-Object IO.Compression.GZipStream($o,[IO.Compression.CompressionMode]::Decompress); $i.CopyTo($z); $z.Close(); $o.Close(); $i.Close(); Remove-Item $g -Force }"
 
 :: --- Decompress VR archive (only when VR included) ---
 if "!VR!"=="1" (
