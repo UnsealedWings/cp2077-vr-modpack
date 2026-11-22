@@ -8,3 +8,9 @@ desktop.ini
 *.prebak
 *.tmp
 *~
+
+# runtime state
+files/red4ext/plugins/cyberpunkvrport/log/
+files/red4ext/plugins/cyberpunkvrport/config/input/merged/
+files/red4ext/plugins/cyberpunkvrport/lua/CyberpunkVRPort_Stereo/bridge/
+
