@@ -407,6 +407,19 @@ local function handVz(h, side, dt)
     return h.vz
 end
 
+-- Lowering the gun to the hip also brings the magazine back: a POSITION trigger, not the swing's
+-- speed, so it reads the same walking or falling. Measured against the head (VRCamModelPos) in the
+-- same model space as VRHandRawModel, Z up.
+local HIP_DROP = 0.5 -- m below the head: the hand is down at the hip
+
+local function handBelowHip(side)
+    if type(VRCamModelPos) ~= 'function' then return false end
+    local p = VRHandRawModel(side)
+    local c = VRCamModelPos()
+    if not (p and c and (p.w or 0) > 0.5 and (c.w or 0) > 0.5) then return false end
+    return p.z < c.z - HIP_DROP
+end
+
 -- THE GAME'S RELOAD OF THIS HAND'S GUN. With a gun in each hand the state machine reports each one on its own entry:
 -- measured, the left gun reloading reads LeftWeapon = 2 while RightWeapon stays at 5 -- so reload.lua's
 -- gameReloading, which reads RightWeapon, never sees the left gun's.
@@ -451,7 +464,7 @@ local function handFrame(side, player, dual, reload, U, dt)
             showMag(h)
             h.out = false
             log((side == 0 and 'left' or 'right') .. ' magazine back with the game\'s reload')
-        elseif h.t > SWING.arm and vz < -SWING.speed then
+        elseif h.t > SWING.arm and (vz < -SWING.speed or handBelowHip(side)) then
             returnMag(side, h, gun, reload, U)
         end
     elseif edge and not reloading then
