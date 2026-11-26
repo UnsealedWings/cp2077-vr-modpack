@@ -26,12 +26,6 @@ public class RadioSyncSystem extends ScriptableSystem {
   // NightCoop calls this every frame on the game thread while the player is in a world.
   // The sync itself runs once a second, not every frame.
   public func OnFrame(dt: Float) -> Void {
-    this.m_timer += dt;
-    if this.m_timer < 1.0 {
-      return;
-    }
-    this.m_timer = 0.0;
-
     if !NightCoopSdk.InSession() || !NightCoopSdk.InWorld() {
       return;
     }

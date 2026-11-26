@@ -2,6 +2,9 @@
 // other players in a co-op session see the VR body (head, arms, gun carried by the right hand).
 // Driven per-frame by CyberpunkVRPose/init.lua (CET), matching the port's architecture. No
 // `module`: the plugin registers its natives at global scope.
+native func VRHandRawWorld(right: Int32) -> Vector4;
+native func VRHandRawWorldRot(right: Int32) -> Quaternion;
+native func GetVRPhysicalCrouch() -> Int32;
 @if(ModuleExists("NightCoop"))
 import NightCoop.*
 public class CyberpunkVRPoseMath {
@@ -23,29 +26,26 @@ public class CyberpunkVRPoseMath {
 }
 @addMethod(PlayerPuppet) public func VRPoseSend() -> Void {
   if !NightCoopSdk.InSession() { return; }
-  let base: Vector4 = this.GetWorldPosition();
-  let playerOrient: Quaternion = this.GetWorldOrientation();
   let headPos: Vector4 = VRViewWorldPos();
   let headRot: Quaternion = VRViewWorldRot();
-  let palmR: Vector4 = VRPalmModelPos(1);
-  let rotR: Quaternion = VRPalmModelRot(1);
-  let palmL: Vector4 = VRPalmModelPos(0);
-  let rotL: Quaternion = VRPalmModelRot(0);
-  let handRPos: Vector4 = base + Quaternion.Transform(playerOrient, Vector4(palmR.X, palmR.Y, palmR.Z, 0.0));
-  let handRRot: Quaternion = CyberpunkVRPoseMath.QMul(playerOrient, rotR);
-  let handLPos: Vector4 = base + Quaternion.Transform(playerOrient, Vector4(palmL.X, palmL.Y, palmL.Z, 0.0));
-  let handLRot: Quaternion = CyberpunkVRPoseMath.QMul(playerOrient, rotL);
+  let handRPos: Vector4 = VRHandRawWorld(1);
+  let handRRot: Quaternion = VRHandRawWorldRot(1);
+  let handLPos: Vector4 = VRHandRawWorld(0);
+  let handLRot: Quaternion = VRHandRawWorldRot(0);
+  let crouch: Float = 0.0;
+  if GetVRPhysicalCrouch() > 0 { crouch = 1.0; }
   let valid: Int32 = 0;
   if headPos.W >= 0.5 { valid += EnumInt(NightCoopSdkPoseBit.Head); }
-  if palmL.W >= 0.5 { valid += EnumInt(NightCoopSdkPoseBit.LeftHand); }
-  if palmR.W >= 0.5 { valid += EnumInt(NightCoopSdkPoseBit.RightHand); }
+  if handLPos.W >= 0.5 { valid += EnumInt(NightCoopSdkPoseBit.LeftHand); }
+  if handRPos.W >= 0.5 { valid += EnumInt(NightCoopSdkPoseBit.RightHand); }
+  if crouch > 0.5 { valid += EnumInt(NightCoopSdkPoseBit.Crouch); }
   let aimOrigin: Vector4 = handRPos;
   let aimDir: Vector4 = Quaternion.Transform(handRRot, Vector4(1.0, 0.0, 0.0, 0.0));
   valid += EnumInt(NightCoopSdkPoseBit.Aim);
   let headT: Transform = Transform.Create(headPos, headRot);
   let handRT: Transform = Transform.Create(handRPos, handRRot);
   let handLT: Transform = Transform.Create(handLPos, handLRot);
-  NightCoopSdk.SetPose("cyberpunkvr.pose", valid, true, headT, handLT, handRT, aimOrigin, aimDir, 0.0, []);
+  NightCoopSdk.SetPose("cyberpunkvr.pose", valid, true, headT, handLT, handRT, aimOrigin, aimDir, crouch, []);
 }
 @addMethod(PlayerPuppet) public func VRPoseClear() -> Void {
   if !this.vrPoseRegistered { return; }
