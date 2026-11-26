@@ -18,11 +18,11 @@ version (and have all the latest files) it just says "You're up to date!".
 - `files/` — the actual mod files (RED4ext + plugins, CET, redscript mods,
   archive mods, ASI loader, and shared DLLs). These are always installed.
 - `configs/` — the owner's tuned configs (RED4ext, CET, NovaOptics settings,
-  VR/launcher config, and the shared graphical `UserSettings.json`). These are
-  only applied on the **first** install.
+  VR/launcher config, and the shared graphical `UserSettings.json`). Every
+  install asks whether to overwrite these (Enter = overwrite, `N` = keep yours).
+  With VR it asks about graphics + configs; without VR it asks about configs only.
 - On first install it writes a marker file `.cp2077_vr_modpack_installed`
-  into the game folder. On later runs that marker exists, so it **skips the
-  configs** and only updates the mod files — your own settings are preserved.
+  into the game folder so later runs know your installed version.
 - The installer checks the latest version first; if it matches what's
   installed it just says "You're up to date!" and exits.
 - The VR prompt (`1` = full modpack with VR, `2` = everything except VR):

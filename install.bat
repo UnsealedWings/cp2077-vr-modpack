@@ -65,6 +65,15 @@ echo.
 set /p "CHOICE=  Enter 1 or 2: "
 if "!CHOICE!"=="1" ( set "VR=1" ) else if "!CHOICE!"=="2" ( set "VR=0" ) else ( goto vrchoice )
 
+:: --- Overwrite prompt (asked every install; Enter = overwrite) ---
+set "OW=Y"
+if "!VR!"=="1" (
+  set /p "OW=  Overwrite graphics options and configs with the modpack defaults? [Y/N] default Y: "
+) else (
+  set /p "OW=  Overwrite configs with the modpack defaults? [Y/N] default Y: "
+)
+if /i "!OW!"=="n" ( set "OVERWRITE=0" ) else ( set "OVERWRITE=1" )
+
 :: --- Download ---
 echo.
 echo   [1/5] Downloading modpack (this can take a few minutes)...
@@ -115,21 +124,21 @@ if "!VR!"=="1" (
   echo   [4/5] Skipping VR archive (VR excluded).
 )
 
-:: --- Configs (first install only) ---
-if exist "!CPDIR!\!MARKER!" (
-  echo   [5/5] Update - keeping your existing configs.
-) else (
-  echo   [5/5] First install - applying default configs...
-  robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /XF UserSettings.json /NFL /NDL /NJH /NJS /NP >nul
-  :: The game reads its graphical/input settings from %LOCALAPPDATA%, not the game folder.
-  if exist "!EXTRACTED!\configs\UserSettings.json" (
-    if not exist "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077" mkdir "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077"
-    copy /y "!EXTRACTED!\configs\UserSettings.json" "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077\UserSettings.json" >nul
+:: --- Configs (applied every install, gated by the overwrite prompt) ---
+if "!OVERWRITE!"=="1" (
+  echo   [5/5] Applying default configs...
+  if "!VR!"=="1" (
+    robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /XF UserSettings.json /NFL /NDL /NJH /NJS /NP >nul
+    if exist "!EXTRACTED!\configs\UserSettings.json" (
+      if not exist "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077" mkdir "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077"
+      copy /y "!EXTRACTED!\configs\UserSettings.json" "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077\UserSettings.json" >nul
+    )
+  ) else (
+    robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /XF UserSettings.json /XD cyberpunkvrport /NFL /NDL /NJH /NJS /NP >nul
   )
+) else (
+  echo   [5/5] Keeping your existing configs and graphics.
 )
-
-:: --- VR tuning configs (always re-pushed so tuning updates reach everyone) ---
-robocopy "!EXTRACTED!\configs\red4ext\plugins\cyberpunkvrport\config" "!CPDIR!\red4ext\plugins\cyberpunkvrport\config" vrport.ini physhands.ini /NFL /NDL /NJH /NJS /NP >nul
 
 :: --- First install: trigger the VR port's one-time setup (UserSettings merge) ---
 if not exist "!CPDIR!\!MARKER!" (
