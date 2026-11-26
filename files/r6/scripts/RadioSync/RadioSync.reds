@@ -10,6 +10,7 @@ public class RadioSyncSystem extends ScriptableSystem {
   private let m_lastStation: CName;
   private let m_lastTrack: CName;
   private let m_timer: Float;
+  private let m_songRetry: Int32;
 
   private func OnAttach() -> Void {
     NightCoopSdk.RegisterMod("radiosync", "Radio Sync", "1.0.0", 1, 512); // 512 = UsesSharedState flag (SetState/GetState)
@@ -17,6 +18,7 @@ public class RadioSyncSystem extends ScriptableSystem {
     this.m_lastStation = n"";
     this.m_lastTrack = n"";
     this.m_timer = 0.0;
+    this.m_songRetry = 0;
   }
 
   private func OnDetach() -> Void {
@@ -56,22 +58,27 @@ public class RadioSyncSystem extends ScriptableSystem {
       if Equals(station, n"") {
         return;
       }
-      if Equals(station, this.m_lastStation) && Equals(track, this.m_lastTrack) {
-        return;
+      let changed: Bool = NotEquals(station, this.m_lastStation) || NotEquals(track, this.m_lastTrack);
+      if changed {
+        this.m_lastStation = station;
+        this.m_lastTrack = track;
+        this.m_songRetry = 30;
       }
-      this.m_lastStation = station;
-      this.m_lastTrack = track;
       // Force the station AND the song -- the game picks a different song per player on its
       // own, so tuning to the same station is not enough. The station is set through the
-      // vehicle blackboard (the same way the game's own radio UI does it).
+      // vehicle blackboard (the same way the game's own radio UI does it). The song request
+      // is retried for a few frames so it lands after the async station switch completes.
       vehicle.GetBlackboard().SetName(GetAllBlackboardDefs().Vehicle.VehRadioStationName, station);
       vehicle.GetBlackboard().SetBool(GetAllBlackboardDefs().Vehicle.VehRadioState, true);
-      if NotEquals(track, n"") {
+      if NotEquals(track, n"") && (changed || this.m_songRetry > 0) {
         let audio: ref<AudioSystem> = GameInstance.GetAudioSystem(GetGameInstance()) as AudioSystem;
         if IsDefined(audio) {
           audio.RequestSongOnRadioStation(station, track);
           audio.RequestSongOnPlaylist(station, track);
         }
+      }
+      if this.m_songRetry > 0 {
+        this.m_songRetry -= 1;
       }
     }
   }
