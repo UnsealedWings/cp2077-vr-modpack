@@ -70,6 +70,7 @@ public class RadioSyncSystem extends ScriptableSystem {
         let audio: ref<AudioSystem> = GameInstance.GetAudioSystem(GetGameInstance()) as AudioSystem;
         if IsDefined(audio) {
           audio.RequestSongOnRadioStation(station, track);
+          audio.RequestSongOnPlaylist(station, track);
         }
       }
     }
