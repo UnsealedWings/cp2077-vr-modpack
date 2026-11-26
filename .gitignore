@@ -14,3 +14,8 @@ files/red4ext/plugins/cyberpunkvrport/log/
 files/red4ext/plugins/cyberpunkvrport/config/input/merged/
 files/red4ext/plugins/cyberpunkvrport/lua/CyberpunkVRPort_Stereo/bridge/
 
+
+# CET mod runtime state (logs + sqlite DBs written at runtime)
+*.log
+db.sqlite3
+

@@ -1,0 +1,9 @@
+localization:
+  onscreens:
+    en-us: responsive_npcs\localization\responsive_npcs_en.json
+    th-th: responsive_npcs\localization\th-th\responsive_npcs_th.json
+    es-es: responsive_npcs\localization\en-es\responsive_npcs_es.json
+    es-mx: responsive_npcs\localization\en-es\responsive_npcs_es.json
+    de-de: responsive_npcs\localization\de-de\responsive_npcs_de.json
+    ru-ru: responsive_npcs\localization\ru-ru\responsive_npcs_ru.json
+    jp-jp: responsive_npcs\localization\jp-jp\responsive_npcs_jp.json

@@ -120,7 +120,12 @@ if exist "!CPDIR!\!MARKER!" (
   echo   [5/5] Update - keeping your existing configs.
 ) else (
   echo   [5/5] First install - applying default configs...
-  robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
+  robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /XF UserSettings.json /NFL /NDL /NJH /NJS /NP >nul
+  :: The game reads its graphical/input settings from %LOCALAPPDATA%, not the game folder.
+  if exist "!EXTRACTED!\configs\UserSettings.json" (
+    if not exist "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077" mkdir "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077"
+    copy /y "!EXTRACTED!\configs\UserSettings.json" "%LOCALAPPDATA%\CD Projekt Red\Cyberpunk 2077\UserSettings.json" >nul
+  )
 )
 
 :: --- VR tuning configs (always re-pushed so tuning updates reach everyone) ---

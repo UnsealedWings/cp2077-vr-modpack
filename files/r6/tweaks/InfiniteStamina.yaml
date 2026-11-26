@@ -1,0 +1,3 @@
+# Infinite Stamina 2.0.0 - by 07Grim07
+# Intentionally empty. Versions 1.x used this file to change stamina regeneration, which could freeze the game.
+# 2.0.0 works through r6/scripts/InfiniteStamina instead; this file only replaces the old one when upgrading.

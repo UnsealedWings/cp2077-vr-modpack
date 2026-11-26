@@ -1,0 +1,776 @@
+# HUGE SHOUTOUT TO PAKTOJAK FOR HELPING ME GET THIS STARTED. THANKS SO MUCH BUDDY!
+# FEEL FREE TO EDIT THESE HOWEVER YOU LIKE. REDISTRIBUTE HOWEVER YOU LIKE. 
+
+# ** PISTOLS
+
+Items.Base_Smart_Handgun_Mult_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 2.0
+    modifierType: Additive
+    statType: BaseStats.HeadshotDamageMultiplier
+    
+Items.Base_Handgun_RPG_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 3.5
+    modifierType: Additive
+    statType: BaseStats.HeadshotDamageMultiplier
+
+# NUE CHANGES
+Items.Base_Nue_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 25
+
+Items.Base_Nue_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.2
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+
+# UNITY CHANGES 
+Items.Base_Unity_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 80
+
+Items.Base_Unity_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.1
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+    
+Items.Base_Unity_Technical_Stats_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 15
+    modifierType: Additive
+    statType: BaseStats.MagazineCapacityBase
+
+
+# LIBERTY CHANGES 
+Items.Base_Liberty_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 80
+
+Items.Base_Liberty_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.1
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+
+# KENSHIN CHANGES 
+Items.Base_Kenshin_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 50
+
+# OMAHA CHANGES
+Items.Base_Omaha_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 50
+
+Items.Base_Omaha_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.02
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+
+# TAMAYURA ARASAKA 2020 CHANGES
+Items.Base_Nue_Arasaka_2020_Constant_Stats_inline10:
+  $type: gamedataConstantStatModifier_Record
+  value: 150
+  modifierType: Additive
+  statType: BaseStats.DamagePerHit
+ 
+Items.Base_Nue_Arasaka_2020_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.03
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+    
+# ** REVOLVERS 
+# QUASAR 150
+Items.Base_Quasar_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 150
+  modifierType: Additive
+  statType: BaseStats.DPS
+  
+# NOVA 150 
+Items.Base_Nova_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 120
+  modifierType: Additive
+  statType: BaseStats.DPS
+
+# BURYA 200 
+Items.Base_Burya_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 200
+  modifierType: Additive
+  statType: BaseStats.DPS
+
+# OVERTURE 150
+Items.Base_Overture_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 150
+  modifierType: Additive
+  statType: BaseStats.DPS
+
+# ** ASSAULT RIFLES 
+
+Items.Base_Assault_Rifle_RPG_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 2.0
+    modifierType: Additive
+    statType: BaseStats.HeadshotDamageMultiplier
+
+# KYUBI CHANGES
+Items.Base_Kyubi_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 120
+    
+Items.Base_Kyubi_Technical_Stats_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 30
+    modifierType: Additive
+    statType: BaseStats.MagazineCapacityBase
+
+Items.Base_Kyubi_Technical_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.1
+    modifierType: Additive
+    statType: BaseStats.CycleTimeBase
+
+# AJAX CHANGES
+Items.Base_Ajax_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 100
+
+# COPPERHEAD CHANGES 
+Items.Base_Copperhead_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 100
+    
+# MASAMUNE CHANGES 
+Items.Base_Masamune_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 110
+  modifierType: Additive
+  statType: BaseStats.DPS
+
+Items.Base_Masamune_Technical_Stats_inline4:
+  $type: gamedataConstantStatModifier_Record
+  value: 30
+  modifierType: Additive
+  statType: BaseStats.MagazineCapacityBase
+  
+# NOWAKI (120) (piggybacks off of masamune)
+
+# UMBRA (100)
+Items.Base_Umbra_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 70
+  modifierType: Additive
+  statType: BaseStats.DPS
+#
+
+# ** PRECISION RIFLES
+
+# ACHILLES
+Items.Base_Achilles_Damage_Stats:
+ statModifiers:
+  - !append
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 120
+# SOR22    
+Items.Base_Sor22_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 120
+  modifierType: Additive
+  statType: BaseStats.DPS
+  
+# KOLAC 
+Items.Base_Kolac_Damage_Stats_inline0:
+  $type: gamedataConstantStatModifier_Record
+  value: 300
+  modifierType: Additive
+  statType: BaseStats.DPS
+    
+# ** SNIPER RIFLES
+
+# SPT32 GRAD 250
+Items.Base_Grad_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 100
+    
+# ASHURA 150
+Items.Base_Ashura_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 150
+
+# NEKOMATA 200
+Items.Base_Nekomata_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 150
+
+# ** SHOTGUNS
+
+# CARNAGE
+Items.Base_Carnage_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 300
+
+# M2038 TACTICIAN 250
+Items.Base_Tactician_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 220
+    
+# ZHUO
+Items.Base_Zhuo_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 300
+    
+# CRUSHER
+Items.Base_Crusher_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 300
+    
+# IGLA (edit if need be, currently rips)
+# PALICA (sucks, as it should, fuck this gun)
+
+# TECHTRONIKA VST-37
+Items.Base_Pozhar_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 300
+    
+# TESTERA (200)
+Items.Base_Testera_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 300
+
+# ** SMGS
+
+Items.Base_Submachinegun_RPG_Stats_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 2.5
+    modifierType: Additive
+    statType: BaseStats.HeadshotDamageMultiplier
+
+# SENKOH LX 120
+Items.Base_Senkoh_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+    
+# SHIGURE 100
+# GUILLOTINE 75
+Items.Base_Guillotine_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+
+# SHINGEN 75
+Items.Base_Shingen_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+
+# DS1 PULSAR 80 
+Items.Base_Pulsar_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+
+# G58 DIAN 75
+Items.Base_Dian_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+
+# M221 SARATOGA 200 
+Items.Base_Saratoga_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200
+
+# ** LMGS
+# M2067 DEFENDER (200)
+Items.Base_Defender_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 250
+
+#MA70  
+Items.Base_MA70_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 250
+
+
+# EDIT SHIGURE SO THAT IT DOES DAMAGE. ALSO SUPPRESSORS ARENT WORKING, STILL REMOVING DAMAGE WHEN ATTACHED. bump up headshot damage. 
+
+
+# ** MELEE 
+
+# TEST GORILLA ARMS WITH THIS ONE Items.Strong_Arms_Damage_Stats_inline0
+# TEST MANTIS BLADES WITH THIS ONE Items.MantisBlades_Damage_Stats_inline0
+# TEST NANOWIRE WITH THIS ONE Items.Nano_Wires_Damage_Stats_inline0
+# MAKE SURE KATANA IS DOING A DECENT AMOUNT OF DAMAGE. HIGH CRIT CHANCE. 
+
+# KNIFE HEADSHOT DAMAGE MULTIPLIER 
+Items.Knife_Stat_Modifiers_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.HeadshotDamageMultiplier
+    value: 3.5
+
+# KNIFE STEALTH DAMAGE MULTIPLIER 
+BaseStatusEffect.KnifeWeaponStealthBuff_inline5:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.StealthHitDamageMultiplier
+    value: 4.0
+
+# DEFAULT KNIFE 
+Items.Knife_Default_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 25
+
+# TANTO / KAIKEN
+Items.Tanto_Default_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 35
+
+# NEUROTOXIN KNIFE 
+Items.Neurotoxin_Knife_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 25
+
+# PUNK KNIFE 
+Items.Punk_Knife_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 25
+
+# CHEFS KNIFE 
+Items.Chef_Knife_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 25
+    
+# CYBERWARE MELEE ARMS
+    
+Items.Strong_Arms_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 80
+    
+Items.MantisBlades_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 180
+
+Items.Nano_Wires_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 200    
+
+# FISTS
+Items.Base_Fists_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 10
+    
+Items.Base_Fists_NPC_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 10
+    
+Items.Strong_Arms_NPC_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 15
+    
+Items.Base_Fists_Handling_Stats_inline4:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.AttacksNumber
+    value: 25
+    
+FistsAttacks.FistsComboAttack2_inline2:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Multiplier
+    statType: BaseStats.PhysicalDamage
+    value: 3.0
+
+# KATANA(S)
+Items.Base_Katana_Damage_Stats_inline0:
+    $type: gamedataConstantStatModifier_Record
+    modifierType: Additive
+    statType: BaseStats.DPS
+    value: 220
+
+# ** ENEMY HEALTH MODIFIERS (change these if you want a real challenge/find some enemies to be too easy)
+
+# TURRETS
+Devices.SecurityTurret_inline3:
+    $type: gamedataConstantStatModifier_Record
+    value: 400
+    modifierType: Additive
+    statType: BaseStats.Health
+    
+# ARASAKA MECH (doublecheck this)
+Character.Mech_Primary_Stat_ModGroup_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 2500
+    modifierType: Additive
+    statType: BaseStats.Health
+    
+# EDIT THIS IF YOU FEEL LIKE ADAM SMASHER WAS TOO EASY. (RECOMMENDED VALUE 5.0, IF YOURE JUST SOOO GOOD BUMP HIM UP TO 10 AND HAVE FUN)
+
+Character.q113_boss_smasher_inline0:
+    $type: gamedataConstantStatModifier_Record
+    value: 4.0
+    modifierType: Multiplier
+    statType: BaseStats.Health
+
+#Items.Base_Nue_Damage_Stats:
+# statModifiers:
+#  - !append
+#    $type: gamedataConstantStatModifier_Record
+#    modifierType: Additive
+#    statType: BaseStats.DPS
+#    value: 25
+            
+Character.Android_Primary_Stat_ModGroup_inline30:
+    $type: gamedataConstantStatModifier_Record
+    value: 450
+    modifierType: Additive
+    statType: BaseStats.Health
+
+    
+# MAXTAC HEALTH MODIFIER (CURRENTLY NOT WORKING, UNCOMMENT TO TEST)
+
+#Character.MaxTac_Mantis_ModGroup_inline2:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.maxtac_av_mantis_wa_inline4:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.MaxTac_ModGroup_inline2:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.maxtac_av_LMG_mb_inline13:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#   modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.maxtac_av_netrunner_ma_inline2:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.maxtac_av_riffle_ma_inline2:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+#Character.maxtac_av_sniper_wa_elite_inline2:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 100
+#    modifierType: additive
+#    statType: BaseStats.Health
+    
+
+
+    
+# ** MISC EDITS 
+
+# WEAPON DISMEMBERMENT EDITS (REMOVE TO MAKE PISTOLS AND SMGS GIB NPCS AGAIN)
+
+Items.Base_Handgun_Misc_Stats_inline14:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.05
+    modifierType: Multiplier
+    statType: BaseStats.HitDismembermentFactor
+    
+Items.Base_Submachinegun_Misc_Stats_inline14:
+    $type: gamedataConstantStatModifier_Record
+    value: 0.05
+    modifierType: Muliplier
+    statType: BaseStats.HitDismembermentFactor
+    
+# GRENADE DAMAGE MODIFIERS
+    
+Items.Preset_Grenade_Frag_Default_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 450
+    modifierType: Additive
+    statType: BaseStats.PhysicalDamage
+    
+# not changing ozobs nose because its kinda hidden and is cool and should blow up cars. 
+#Items.GrenadeOzobsNose_inline1:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 3.0
+#    modifierType: Multiplier
+#    statType: BaseStats.PhysicalDamage
+    
+#Items.Preset_Grenade_Frag_Default_inline5:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 50
+#    modifierType: Additive
+#    statType: BaseStats.PhysicalImpulse
+
+Items.Preset_Grenade_EMP_Default_inline8:
+    $type: gamedataConstantStatModifier_Record
+    value: 100
+    modifierType: Additive
+    statType: BaseStats.PhysicalDamage
+    
+# NPC PHYSICS WEIGHT (FOR RAGDOLLS, NOT WORKING, SHIT WOULD BE TIGHT THOUGH)
+#Character.NPC_Base_Primary_Stat_ModGroup_inline1:
+#    $type: gamedataConstantStatModifier_Record
+#    value: 350
+#    modifierType: Additive
+#    statType: BaseStats.Weight
+
+
+
+# SUPPRESSORS (edit this area if you want to return suppressor stealth damage)
+
+Items.w_silencer_01_inline4:
+    $type: gamedataCombinedStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamageReduction
+    
+Items.w_silencer_02_inline5:
+    $type: gamedataCombinedStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamageReduction
+
+Items.w_silencer_04_inline5:
+    $type: gamedataCombinedStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamageReduction
+
+Items.w_silencer_04_inline6:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.AdditionalStealthDamage
+    
+Items.w_silencer_04_inline0:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.StealthHitDamageMultiplier
+
+Items.w_silencer_01_inline0:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.StealthHitDamageMultiplier
+
+Items.w_silencer_01_inline5:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.AdditionalStealthDamage
+
+Items.w_silencer_02_inline0:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.StealthHitDamageMultiplier
+
+Items.w_silencer_02_inline3:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.AdditionalStealthDamage
+
+Items.w_silencer_03_inline4:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.AdditionalStealthDamage
+    
+Items.w_silencer_03_inline0:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.StealthHitDamageMultiplier
+
+Items.w_silencer_01_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamagePerHit
+
+Items.w_silencer_01_inline3:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: Additive
+    statType: BaseStats.DamageReduction
+
+Items.w_silencer_02_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamagePerHit
+
+Items.w_silencer_02_inline4:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: Additive
+    statType: BaseStats.DamageReduction
+    
+Items.w_silencer_03_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamagePerHit
+    
+Items.w_silencer_03_inline3:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: Additive
+    statType: BaseStats.DamageReduction
+    
+Items.w_silencer_03_legendary_inline1:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamagePerHit
+    
+Items.w_silencer_03_legendary_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: Additive
+    statType: BaseStats.DamageReduction
+    
+Items.w_silencer_04_inline2:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: AdditiveMultiplier
+    statType: BaseStats.DamagePerHit
+    
+Items.w_silencer_04_inline4:
+    $type: gamedataConstantStatModifier_Record
+    value: 0
+    modifierType: Additive
+    statType: BaseStats.DamageReduction
+    
+# VENDOR ITEM LEVELS FIXES
+
+# ANY SCOPE ON ANY WEAPON 
+
+﻿Items.HandgunPossibleScopesList:
+  itemPartList:
+    - !append-from Items.RiflePossibleScopesList.itemPartList
+    - !append-from Items.GradPossibleScopesList.itemPartList
+    - !append-from Items.NekomataPossibleScopesList.itemPartList
+Items.RiflePossibleScopesList:
+  itemPartList:
+    - !append-from Items.GradPossibleScopesList.itemPartList
+    - !append-from Items.NekomataPossibleScopesList.itemPartList
+    - !append-from Items.HandgunPossibleScopesList.itemPartList
+Items.GradPossibleScopesList:
+  itemPartList:
+    - !append-from Items.HandgunPossibleScopesList.itemPartList
+    - !append-from Items.RiflePossibleScopesList.itemPartList
+Items.NekomataPossibleScopesList:
+  itemPartList:
+    - !append-from Items.HandgunPossibleScopesList.itemPartList
+    - !append-from Items.RiflePossibleScopesList.itemPartList
+
+
+    
+# TO DOS
+# add hitdismembermentfactor to all low caliber guns. ## TEST SMGS
