@@ -9,14 +9,14 @@ public class RadioSyncSystem extends ScriptableSystem {
 
   private let m_lastStation: CName;
   private let m_lastTrack: CName;
-  private let m_songStartMs: Uint64;
+  private let m_timer: Float;
 
   private func OnAttach() -> Void {
-    NightCoopSdk.RegisterMod("radiosync", "Radio Sync", "1.1.0", 1, 512); // 512 = UsesSharedState flag (SetState/GetState)
+    NightCoopSdk.RegisterMod("radiosync", "Radio Sync", "1.0.0", 1, 512); // 512 = UsesSharedState flag (SetState/GetState)
     NightCoopSdk.ListenFrame("radiosync", this, n"OnFrame");
     this.m_lastStation = n"";
     this.m_lastTrack = n"";
-    this.m_songStartMs = 0u;
+    this.m_timer = 0.0;
   }
 
   private func OnDetach() -> Void {
@@ -42,15 +42,11 @@ public class RadioSyncSystem extends ScriptableSystem {
     if NightCoopSdk.IsHost() {
       let station: CName = vehicle.GetBlackboard().GetName(GetAllBlackboardDefs().Vehicle.VehRadioStationName);
       let track: CName = vehicle.GetRadioReceiverTrackName();
-      if NotEquals(track, this.m_lastTrack) {
-        this.m_songStartMs = NightCoopSdk.SharedTimeMs();
-      }
       if NotEquals(station, this.m_lastStation) || NotEquals(track, this.m_lastTrack) {
         this.m_lastStation = station;
         this.m_lastTrack = track;
         NightCoopSdk.SetState("radiosync", "station", NameToString(station));
         NightCoopSdk.SetState("radiosync", "track", NameToString(track));
-        NightCoopSdk.SetState("radiosync", "start", Uint64ToString(this.m_songStartMs));
       }
     } else {
       let stationStr: String = NightCoopSdk.GetState("radiosync", "station");
@@ -74,7 +70,6 @@ public class RadioSyncSystem extends ScriptableSystem {
         let audio: ref<AudioSystem> = GameInstance.GetAudioSystem(GetGameInstance()) as AudioSystem;
         if IsDefined(audio) {
           audio.RequestSongOnRadioStation(station, track);
-          // Position (duration offset) sync needs a Wwise seek native -- pending on the C++ side.
         }
       }
     }
