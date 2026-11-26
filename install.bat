@@ -107,6 +107,9 @@ if "!VR!"=="1" (
   del /q "!CPDIR!\engine\config\base\scripts.ini" 2>nul
   del /q "!CPDIR!\r6\config\cybercmd\scc.toml" 2>nul
 ) else (
+  :: VR excluded -> remove any previously-installed VR mod so the swap is clean
+  rmdir /s /q "!CPDIR!\red4ext\plugins\cyberpunkvrport" 2>nul
+  del /q "!CPDIR!\version.dll" 2>nul
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP /XD cyberpunkvrport >nul
   :: VR excluded -> install standalone redscript so the other mods can run
   robocopy "!EXTRACTED!\redscript" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
