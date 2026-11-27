@@ -149,7 +149,7 @@ public func VRCyberwareBeginSwing(weapon: wref<WeaponObject>, side: Int32, stron
   cost = RPGManager.CalculateStatModifiers(costs, this.GetGame(), weapon, Cast<StatsObjectID>(weapon.GetEntityID()));
   if cost > 0.00 {
     let now: Float = EngineTime.ToFloat(GameInstance.GetSimTime(this.GetGame()));
-    if now - this.vrCyberwareStaminaAt >= 0.50 {
+    if now - this.vrCyberwareStaminaAt >= 1.00 {
         this.vrCyberwareStaminaAt = now;
         PlayerStaminaHelpers.ModifyStamina(this, -cost);
     };
