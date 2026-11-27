@@ -28,6 +28,7 @@ public class VrCyberwareAttackTicket extends IScriptable {
 @addField(PlayerPuppet) public let vrCyberwareDamageTrace: String;
 // The last started attack's geometry, read by live tests: contact on the line, body point, sweep start/direction/range.
 @addField(PlayerPuppet) public let vrCyberwareLastAttackGeometry: array<Vector4>;
+@addField(PlayerPuppet) public let vrCyberwareStaminaAt: Float;
 
 @addMethod(PlayerPuppet)
 public func VRCyberwareKind(weapon: wref<WeaponObject>) -> Int32 {
@@ -146,7 +147,13 @@ public func VRCyberwareBeginSwing(weapon: wref<WeaponObject>, side: Int32, stron
   this.vrCyberwareSwings[side] = swing;
   record.StaminaCost(costs);
   cost = RPGManager.CalculateStatModifiers(costs, this.GetGame(), weapon, Cast<StatsObjectID>(weapon.GetEntityID()));
-  if cost > 0.00 { PlayerStaminaHelpers.ModifyStamina(this, -cost); };
+  if cost > 0.00 {
+    let now: Float = EngineTime.ToFloat(GameInstance.GetSimTime(this.GetGame()));
+    if now - this.vrCyberwareStaminaAt >= 0.50 {
+        this.vrCyberwareStaminaAt = now;
+        PlayerStaminaHelpers.ModifyStamina(this, -cost);
+    };
+};
   this.vrCyberwareSwingCount += 1;
   if WeaponObject.IsOfType(weapon.GetItemID(), gamedataItemType.Cyb_MantisBlades) || WeaponObject.IsOfType(weapon.GetItemID(), gamedataItemType.Cyb_StrongArms) {
     this.VRCyberwareAnimateSwing(weapon, record, side, strong);
@@ -253,7 +260,7 @@ public func VRCyberwareContacts(weapon: wref<WeaponObject>, side: Int32, points:
   if !IsDefined(swing) || !IsDefined(weapon) || swing.weapon != weapon || this.VRHolsterIntentActive(1.00) { return 0; };
   item = GameInstance.GetTransactionSystem(this.GetGame()).GetItemInSlot(this, VRLeftHandedWeapon.HeldSlot(this));
   if !IsDefined(item) || item.GetItemID() != weapon.GetItemID() { return 0; };
-  radius = ClampF(radius, 0.02, 0.10);
+  radius = ClampF(radius, 0.02, 0.30);
   while i < ArraySize(points) { reach = MaxF(reach, Vector4.Distance(points[i], origin)); i += 1; };
   query.testedSet = TargetingSet.Complete;
   query.searchFilter = TSF_NPC();

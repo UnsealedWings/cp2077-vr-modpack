@@ -183,7 +183,7 @@ function M.update(dt,player,weapon,kind,now,supplied,ordinaryLever)
                 if kind==3 then
                     if now-(s.lastContactCheck or -10)>=.04 then
                         local active=s.episode or now<(s.wireLiveUntil or -1)
-                        player:VRCyberwareContacts(weapon,side,points,s.contactPoints or s.points,.035,not(active and wireMotionSpeed>=threshold))
+                        player:VRCyberwareContacts(weapon,side,points,s.contactPoints or s.points,.08,not(active and wireMotionSpeed>=threshold))
                         s.lastContactCheck=now
                         s.contactPoints=points
                     end
@@ -191,7 +191,7 @@ function M.update(dt,player,weapon,kind,now,supplied,ordinaryLever)
                     local direction=sub(points[2],points[1])
                     player:VRMeleeBladeHit(weapon,points[1],Vector4.new(direction.x,direction.y,direction.z,0),.22,s.strong or false,not(s.episode and instantSpeed>=threshold))
                 else
-                    player:VRCyberwareContacts(weapon,side,points,s.points,kind==1 and .08 or .10,not(s.episode and instantSpeed>=threshold))
+                    player:VRCyberwareContacts(weapon,side,points,s.points,kind==1 and .20 or .25,not(s.episode and instantSpeed>=threshold))
                 end
             end
             s.rel,s.points,s.origin,s.time=rel,points,origin,now
