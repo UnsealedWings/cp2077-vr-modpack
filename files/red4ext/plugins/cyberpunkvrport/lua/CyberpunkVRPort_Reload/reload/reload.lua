@@ -2769,7 +2769,7 @@ function M.frame(weapon, slotComp, holder, dt)
             -- it is the aim everywhere else (sent by the magazine block, which also has a claim on it)
             slideS.ltNear = sc.grabWith == 'trigger' and free == aimHand()
                             and (slideS.grabbed or (best ~= nil and bestD <= (sc.previewRadius or 0.07)))
-            if best and bestD <= (sc.previewRadius or 0.07) and not magNearer and not M.twoHand() then
+            if best and bestD <= (sc.previewRadius or 0.07) and not magNearer and not M.sgH.twoHand() then
                 -- A HANDLE ON THE TRIGGER IS OFFERED TO THE TRIGGER FINGER, NOT TO THE HAND. The preview's fingers
                 -- are a claim on the hand, and the two-hand hold lets go of -- and spends the grip of -- any hand
                 -- the reload claims. A handle at the fore-end (the Copperhead's lever, the Umbra's, the
