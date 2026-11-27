@@ -124,11 +124,18 @@ public struct ApexGrappleSight {
 // Until the audit of 10 November 2026 they went the whole length (A3, Kevin's trial of 10 November 2026: 27 shots and
 // 22 212 verdicts of the range indicator alike, no distance more than 1 mm apart; releves/apex-grapple/
 // 2026-11-10-allegement).
-public func ApexGrappleLook(scriptInterface: ref<StateGameScriptInterface>, length: Float) -> ApexGrappleSight {
+public func ApexGrappleLook(scriptInterface: ref<StateGameScriptInterface>, length: Float, fromOverride: Vector4, forwardOverride: Vector4) -> ApexGrappleSight {
   let sight: ApexGrappleSight;
-  let view: Transform = scriptInterface.GetCameraWorldTransform();
-  let from: Vector4 = Transform.GetPosition(view);
-  let forward: Vector4 = Transform.GetForward(view);
+  let from: Vector4;
+  let forward: Vector4;
+  if Vector4.Length(forwardOverride) > 0.001 {
+    from = fromOverride;
+    forward = Vector4.Normalize(forwardOverride);
+  } else {
+    let view: Transform = scriptInterface.GetCameraWorldTransform();
+    from = Transform.GetPosition(view);
+    forward = Transform.GetForward(view);
+  }
   let to: Vector4 = from + forward * length;
   sight.from = from;
   let statics: ApexGrappleRayHit = ApexGrappleRayHitOf(scriptInterface.RaycastWithASingleGroup(from, to, n"Static"), from);
@@ -158,7 +165,8 @@ public func ApexGrappleLook(scriptInterface: ref<StateGameScriptInterface>, leng
 // the frame, takes the decision's when it would look as far, rather than cast the same six rays again from the same
 // camera (A10). Judged in the frame it was cast, as any sight.
 public func ApexGrappleLookFor(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>, length: Float) -> ApexGrappleSight {
-  let sight: ApexGrappleSight = ApexGrappleLook(scriptInterface, length);
+  let aim: ApexGrappleHandAim = ApexGrappleLeftHandAim(system, scriptInterface);
+  let sight: ApexGrappleSight = ApexGrappleLook(scriptInterface, length, aim.from, aim.forward);
   system.sightKept = sight;
   system.sightKeptIn = system.frames;
   system.sightKeptLength = length;

@@ -58,6 +58,38 @@ public func ApexGrappleLeftHand(system: ref<ApexGrappleSystem>, scriptInterface:
   return read;
 }
 
+
+// The left hand's aim: its world position and the +Y the hand points (its barrel). Read from the same
+// slot ApexGrappleLeftHand reads; in VR the IK puts that slot on the controller, so the grapple can
+// aim from the hand instead of the camera's centre.
+public struct ApexGrappleHandAim {
+  let found: Bool;
+  let from: Vector4;
+  let forward: Vector4;
+}
+
+public func ApexGrappleLeftHandAim(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>) -> ApexGrappleHandAim {
+  let aim: ApexGrappleHandAim;
+  if !ApexGrappleHandSlotsFound(system, scriptInterface) {
+    return aim;
+  }
+  let slots: ref<SlotComponent> = system.handSlots;
+  let place: WorldTransform;
+  if !slots.GetSlotTransform(n"WeaponLeft", place) && !slots.GetSlotTransform(n"LeftHand", place) {
+    return aim;
+  }
+  let at: Vector4 = WorldPosition.ToVector4(WorldTransform.GetWorldPosition(place));
+  at.W = 1.0;
+  aim.from = at;
+  let q: Quaternion = place.Orientation;
+  aim.forward.X = 2.0 * (q.i * q.j - q.k * q.r);
+  aim.forward.Y = 1.0 - 2.0 * (q.i * q.i + q.k * q.k);
+  aim.forward.Z = 2.0 * (q.j * q.k + q.i * q.r);
+  aim.forward.W = 0.0;
+  aim.found = true;
+  return aim;
+}
+
 // From the bone WeaponLeft to the middle of the fist as drawn, in the camera's frame. Started at the bone, the rope's
 // end showed at the fist's bottom right, about 45 px right of and 93 px below the fist's middle; at the hand's 0.555 m,
 // with field of view 100 and a 2304 x 1440 window, a pixel there is about 0.57 mm: 2.5 cm to the left, 5.3 cm up,
