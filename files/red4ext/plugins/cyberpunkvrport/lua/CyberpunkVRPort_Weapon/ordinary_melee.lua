@@ -84,7 +84,7 @@ function M.update(dt,player,weapon,position,forward,origin,diag)
             s.armed=true;s.soundArmed=true
         end
     end
-    if clock>=s.mute and speed>=tuning.swingSpeed and s.armed and clock-s.lastBegin>=.12 then
+    if clock>=s.mute and speed>=tuning.swingSpeed and s.armed and clock-s.lastBegin>=.06 then
         s.strong=weaponTrigger()
         s.episode=player:VRCyberwareBeginSwing(weapon,1,s.strong,speed)
         s.armed=false;s.lastBegin=clock;s.direction=velocity

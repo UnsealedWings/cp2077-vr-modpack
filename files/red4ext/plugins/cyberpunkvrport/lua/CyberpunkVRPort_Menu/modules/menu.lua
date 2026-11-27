@@ -1835,8 +1835,8 @@ local function pointers(cam, C, R, U)
     return
   end
   local hover = {}
-  -- The native XInput bridge publishes the physical R3 button before the game consumes it.
-  local rightStick=type(GetVRSharedSlot)=="function" and GetVRSharedSlot(159) or 0
+  -- The native XInput bridge publishes the physical R3 on slot 175 (slot 159 is the A-button slide release now).
+  local rightStick=type(GetVRSharedSlot)=="function" and GetVRSharedSlot(175) or 0
   for hand = 1, 2 do
     local P = S.hands[hand]
     local base = (hand - 1) * 4

@@ -59,6 +59,7 @@ local H = {}
 local ENT = "vrport\\holster\\vrp_holster_weapon.ent"
 local SCAN_EVERY = 0.25           -- seconds between reading the weapon slots
 local COOLDOWN = 0.6              -- seconds after a draw or a holster before the next one
+local HEAL_EVERY = 10.0           -- seconds between checks that a copy's entity has not vanished
 local STOW_TIME = 0.35            -- seconds the copy takes from the hand into its holster
 local IN_HAND_WAIT = 3.0          -- seconds the copy waits in the hand for the weapon itself
 local RELEASE_TIME = 0.25         -- seconds the wrist takes from a hold back to its controller
@@ -607,6 +608,20 @@ local function spawn(c, template)
     c.id = exEntitySpawner.Spawn(ENT, tr, c.look)
   end
   c.entity, c.attached, c.shown, c.mode = nil, false, nil, nil
+end
+
+-- Every HEAL_EVERY seconds: a copy whose entity vanished out from under us (the game despawned it --
+-- a scene transition, a load, a cutscene) but whose item is still equipped gets a fresh spawn, so the
+-- holster shows again without a manual re-equip. The next settle() re-resolves and re-seats it.
+local function heal()
+  local pl = Game.GetPlayer()
+  if pl == nil then return end
+  for k, c in pairs(S.copies) do
+    if c.id ~= nil and Game.FindEntityByID(c.id) == nil then
+      if S.pull and S.pull.key == k then S.pull = nil; magnetOff() end
+      spawn(c)
+    end
+  end
 end
 
 ---------------------------------------------------------------- what hangs where
@@ -1206,6 +1221,10 @@ function H.update(dt, enabled)
   if S.t - S.scanAt >= SCAN_EVERY then
     S.scanAt = S.t
     scan(pl, pd, enabled)
+  end
+  if S.t - (S.healAt or 0) >= HEAL_EVERY then
+    S.healAt = S.t
+    heal()
   end
   settle(held, real)
   revealReal(real)

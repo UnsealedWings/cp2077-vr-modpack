@@ -165,7 +165,7 @@ function M.update(dt,player,weapon,kind,now,supplied,ordinaryLever)
                 if dot(velocity,s.direction)<-.1*length(velocity)*length(s.direction) then s.armed=true end
             else s.quietSince=nil
             end
-            if s.armed and speed>=threshold and now>=s.mute and now-(s.lastBegin or -10)>=.12 then
+            if s.armed and speed>=threshold and now>=s.mute and now-(s.lastBegin or -10)>=.06 then
                 local trigger=Game.GetVRSharedSlot(side==0 and 154 or 160)
                 s.strong=trigger>.5
                 s.episode=player:VRCyberwareBeginSwing(weapon,side,s.strong,speed)

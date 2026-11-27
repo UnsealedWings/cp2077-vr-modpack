@@ -161,24 +161,12 @@ function K.holoPanel(parent,w,h)
   kept(string.format("holo:%g:%g",w,h),parent,0,0,w,h,function(c) holoDraw(c,w,h) end)
 end
 function holoDraw(parent,w,h)
+  -- Trimmed to the dark fill (legibility) + one bright outline. The scanlines, the two
+  -- nested extra frames and the corner/notch ornaments are gone: each was a full-panel
+  -- translucent sheet and alpha-overdraw is what made the menu heavy in VR.
   local cut=h<100 and 10 or 24
   K.roundFill(parent,10,10,w-20,h-20,K.NAVY,.18,4)
-  if h>=180 then
-    for y=32,h-28,math.max(18,math.ceil(h/64)) do K.rect(parent,24,y,w-48,1,K.CYAN,.025) end
-  end
-  K.cutFrame(parent,2,2,w-4,h-4,K.CYAN,.07,cut,6)
   K.cutFrame(parent,2,2,w-4,h-4,K.CYAN,.72,cut,2)
-  K.cutFrame(parent,10,10,w-20,h-20,K.CYAN,.17,math.max(6,cut-6),1)
-  if h>=180 then
-    K.line(parent,2,cut+2,cut+2,2,K.CYAN,.95,5)
-    K.line(parent,w-cut-2,h-2,w-2,h-cut-2,K.CYAN,.95,5)
-    K.rect(parent,cut+12,2,90,3,K.CYAN,.9)
-    K.rect(parent,w-cut-102,h-4,90,3,K.CYAN,.9)
-    for i=0,2 do
-      K.rect(parent,w-58,30+i*8,28-i*7,2,K.CYAN,.3)
-      K.rect(parent,22,h-54+i*8,22+i*5,2,K.CYAN,.25)
-    end
-  end
 end
 
 -- A border of four bars, inside the box.
