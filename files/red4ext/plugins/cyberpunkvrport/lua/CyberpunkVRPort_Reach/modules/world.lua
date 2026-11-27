@@ -44,13 +44,13 @@ local LIST_EVERY = 0.25      -- s between refreshes of the things round the play
 local CONFIRM_WITHIN = 0.35  -- s the game has to offer something for a chosen thing before the next is tried
 local SNUB = 1.2             -- s a thing the game offered nothing for is passed over
 local BESIDE = 0.6           -- m from the chosen thing within which the game's prompt on another thing is taken
-local USE_FOR = 0.12         -- s the interaction button is held by one grip
+local USE_FOR = 0.18         -- s the interaction button is held by one grip
 -- The pull: the palm moving away from the held thing this fast (m/s, smoothed over VEL_SMOOTH s) snatches it; it flies
 -- at about FLIGHT_SPEED, between FLIGHT_MIN and FLIGHT_MAX s, rising ARC m over its middle; the game is asked to take
 -- it from TAKE_AT of the way on; one not taken GIVE_UP s after it landed goes back.
 local FLICK, VEL_SMOOTH = 1.1, 0.06
 local FLIGHT_SPEED, FLIGHT_MIN, FLIGHT_MAX, ARC = 4.0, 0.18, 0.45, 0.12
-local TAKE_AT, GIVE_UP = 0.8, 0.5
+local TAKE_AT, GIVE_UP = 0.8, 1.2
 -- A weapon for the hand is turned into the hold over this part of its flight, and taken as it lands; the game has
 -- DRAW_WITHIN s to put it in the inventory before its draw is given up.
 local ALIGN_BY, DRAW_WITHIN = 0.85, 1.0
@@ -63,6 +63,7 @@ local EDIBLE_RANGE, EDIBLE_CONE, EDIBLE_FIRST = 6.0, math.rad(16), 0.4
 -- LOOT LYING ABOUT comes the same way (t.far): the game's prompt reaches some 2 m and follows the eyes, so a thing further off was passed over as "not offered" before a hand could close on it. Its word waits for the thing to arrive, as
 -- food's does. Only what lies dropped: an item object can be in somebody's hand. Near the palm the game's word still decides.
 local LAND_ASK = 0.2         -- s after landing the button is pressed anyway, if the game has a loot prompt up on something
+local TAKE_RETRY = 0.18      -- s between the repeated take taps while the thing sits at the palm
 -- The game's own outline, on this one entity (entRenderHighlightEvent, as its scanner does it): pointed at, held from afar. 0 is off.
 local OUTLINE_AIM, OUTLINE_LOCK = 5, 6
 local MOUTH_BELOW, MOUTH_NEAR = 0.09, 0.17   -- m under the eyes, and how near it
@@ -398,8 +399,23 @@ end
 -- What hand `hand` takes: the game's interaction button pressed on it, and a weapon taken by the weapon hand drawn
 -- into it once the game has it in the inventory (drawTaken).
 local function take(hand, thing)
-  use()
   local weapon = hand == weaponHand() and weaponIn(thing) or nil
+  local pl = Game.GetPlayer()
+  local id = nil
+  pcall(function()
+    local e = thing.entity
+    local io = e:IsA("gameItemDropObject") and e:GetItemObject() or e
+    if io ~= nil and io:IsA("gameItemObject") then id = io:GetItemID() end
+  end)
+  local given = false
+  if pl ~= nil and id ~= nil then
+    given = pcall(function() Game.GetTransactionSystem():GiveItem(pl, id, 1) end)
+    if given then
+      pcall(function() thing.entity:Destroy() end)
+      S.gives = (S.gives or 0) + 1
+    end
+  end
+  if not given then use() end
   if weapon ~= nil then S.draw = { id = weapon, till = S.time + DRAW_WITHIN } end
 end
 
@@ -489,29 +505,23 @@ local function fly(pl, marker)
     if marker ~= nil and S.flight ~= nil then marker.mark(F.hand, { pos = at, radius = 0.05, lift = 0.06, kind = "lock", ready = true, from = H.pos }) end
     return
   end
-  if s >= takeAt and not F.asked then
-    local owner = offers()
-    if owner == F.thing.id then
+  -- it has arrived: put it in the inventory at once. The direct take gives the item and drops the world entity, so
+  -- it no longer waits on the game's loot prompt having followed the moving thing.
+  if F.landed ~= nil then
+    if F.nextTake == nil then
+      F.nextTake = S.time + LAND_ASK
+    elseif S.time >= F.nextTake then
       take(F.hand, F.thing)
       F.asked = true
-      print("[VRReach] flying loot: the game offered it, taken")
+      F.nextTake = S.time + TAKE_RETRY
     end
-  end
-  -- it has arrived, the ray is on it, and the prompt stayed on something beside it
-  if F.landed ~= nil and not F.asked and S.time - F.landed > LAND_ASK then
-    local owner = offers()
-    if owner ~= nil then
-      take(F.hand, F.thing)
-      F.asked = true
-      print("[VRReach] flying loot: the prompt is on " .. owner .. ", not on it; pressed anyway")
+    if S.time - F.landed > GIVE_UP then
+      print("[VRReach] flying loot: the game did not take it, back where it lay")
+      place(e, F.start, F.q)
+      S.snubbed[F.thing.id] = S.time + SNUB
+      S.flight = nil
+      return
     end
-  end
-  if F.landed ~= nil and S.time - F.landed > GIVE_UP then
-    print("[VRReach] flying loot: the game did not take it, back where it lay; asked " .. tostring(F.asked))
-    place(e, F.start, F.q)
-    S.snubbed[F.thing.id] = S.time + SNUB
-    S.flight = nil
-    return
   end
   if marker ~= nil then
     marker.mark(F.hand, { pos = at, radius = 0.05, lift = 0.06, kind = "lock", ready = true, from = H.pos })
