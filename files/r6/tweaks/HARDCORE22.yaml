@@ -11,7 +11,7 @@ Items.Base_Smart_Handgun_Mult_Stats_inline1:
     
 Items.Base_Handgun_RPG_Stats_inline1:
     $type: gamedataConstantStatModifier_Record
-    value: 3.5
+    value: 7.0
     modifierType: Additive
     statType: BaseStats.HeadshotDamageMultiplier
 
@@ -37,7 +37,7 @@ Items.Base_Unity_Damage_Stats:
     $type: gamedataConstantStatModifier_Record
     modifierType: Additive
     statType: BaseStats.DPS
-    value: 80
+    value: 60
 
 Items.Base_Unity_Technical_Stats_inline1:
     $type: gamedataConstantStatModifier_Record
@@ -59,7 +59,7 @@ Items.Base_Liberty_Damage_Stats:
     $type: gamedataConstantStatModifier_Record
     modifierType: Additive
     statType: BaseStats.DPS
-    value: 80
+    value: 60
 
 Items.Base_Liberty_Technical_Stats_inline1:
     $type: gamedataConstantStatModifier_Record
@@ -74,7 +74,7 @@ Items.Base_Kenshin_Damage_Stats:
     $type: gamedataConstantStatModifier_Record
     modifierType: Additive
     statType: BaseStats.DPS
-    value: 50
+    value: 40
 
 # OMAHA CHANGES
 Items.Base_Omaha_Damage_Stats:
@@ -83,7 +83,7 @@ Items.Base_Omaha_Damage_Stats:
     $type: gamedataConstantStatModifier_Record
     modifierType: Additive
     statType: BaseStats.DPS
-    value: 50
+    value: 40
 
 Items.Base_Omaha_Technical_Stats_inline1:
     $type: gamedataConstantStatModifier_Record
