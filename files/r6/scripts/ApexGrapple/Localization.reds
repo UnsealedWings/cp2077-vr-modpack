@@ -1,0 +1,229 @@
+// Menu texts in English, French and Simplified Chinese (LocalizationChinese.reds), through Codeware's translation system. Everything here compiles only when
+// Codeware is installed: without it, one unknown name would stop every redscript mod of the player from loading.
+// Without Codeware the menu shows the keys instead.
+
+@if(ModuleExists("Codeware.Localization"))
+import Codeware.Localization.*
+
+@if(ModuleExists("Codeware.Localization"))
+public class ApexGrappleLocalization extends ModLocalizationProvider {
+  public func GetPackage(language: CName) -> ref<ModLocalizationPackage> {
+    if Equals(language, n"fr-fr") {
+      return new ApexGrappleFrench();
+    }
+    if Equals(language, n"zh-cn") {
+      return new ApexGrappleChinese();
+    }
+    return new ApexGrappleEnglish();
+  }
+
+  public func GetFallback() -> CName {
+    return n"en-us";
+  }
+}
+
+@if(ModuleExists("Codeware.Localization"))
+public class ApexGrappleEnglish extends ModLocalizationPackage {
+  protected func DefineTexts() {
+    this.Text("ApexGrapple-Enabled", "Apex Grapple");
+    this.Text("ApexGrapple-Enabled-Description", "Aim at a surface and press the quick melee key (Q on a keyboard; R3 on a controller, or L1 in the Alternative or Switch Legacy layout): the hook flies and the rope pulls you, while your aim steers you. Off: the key does only the quick melee.");
+    this.Text("ApexGrapple-Profile1", "Profile 1: base grapple");
+    this.Text("ApexGrapple-Profile1-Key", "Profile 1: key");
+    this.Text("ApexGrapple-Profile1-Hook", "Profile 1: arm and hook");
+    this.Text("ApexGrapple-Profile1-Pull", "Profile 1: pull");
+    this.Text("ApexGrapple-Profile1-LetGo", "Profile 1: letting go");
+    this.Text("ApexGrapple-Profile1-Targets", "Profile 1: vehicles and people");
+    this.Text("ApexGrapple-Profile1-Landing", "Profile 1: landing");
+    this.Text("ApexGrapple-Profile1-Fov", "Profile 1: field of view");
+    this.Text("ApexGrapple-Profile1-Voice", "Profile 1: V's voice");
+    this.Text("ApexGrapple-Profile2", "Profile 2");
+    this.Text("ApexGrapple-Profile3", "Profile 3");
+    this.Text("ApexGrapple-Profile4", "Profile 4");
+    this.Text("ApexGrapple-Profile5", "Profile 5");
+    this.Text("ApexGrapple-ShowSettings", "Show settings");
+    this.Text("ApexGrapple-ShowSettings-Description", "Shows this profile's settings below. Shown or hidden, the profile keeps working.");
+    this.Text("ApexGrapple-ProfileActive", "Enabled");
+    this.Text("ApexGrapple-ProfileActive-Description", "This profile fires its own grapple with its key and the settings below. Needs Codeware.");
+    this.Text("ApexGrapple-ProfileKey", "Key");
+    this.Text("ApexGrapple-ProfileKey-Description", "The key of this profile's grapple. Two profiles on one key: the lower number fires. The mouse wheel cannot be used.");
+    this.Text("ApexGrapple-Implant", "Arm implant");
+    this.Text("ApexGrapple-Implant-Description", "The implant your left arm fires the grapple from, seen in first person. None: the rope leaves from your hand. Needs Codeware.");
+    this.Text("ApexGrapple-Implant-None", "None");
+    this.Text("ApexGrapple-Implant-ProjectileLauncher", "Projectile Launch System");
+    this.Text("ApexGrapple-RequireLauncher", "Require the Projectile Launch System");
+    this.Text("ApexGrapple-RequireLauncher-Description", "The grapple works only if V has the Projectile Launch System installed, shown or not. Without it, the grapple does not fire.");
+    this.Text("ApexGrapple-OwnKey", "Own key");
+    this.Text("ApexGrapple-OwnKey-Description", "Grapple with a key of your choice instead of the quick melee key. Needs Codeware.");
+    this.Text("ApexGrapple-Key", "Key");
+    this.Text("ApexGrapple-Key-Description", "The grapple key, used when Own key is on. The mouse wheel cannot be used.");
+    this.Text("ApexGrapple-KeyboardHold", "Keyboard: hold to grapple");
+    this.Text("ApexGrapple-KeyboardHold-Description", "Hold the key to grapple. With the quick melee key, a tap still does the quick melee. Not on the scanner's key, which a hold opens.");
+    this.Text("ApexGrapple-ControllerHold", "Controller: hold to grapple");
+    this.Text("ApexGrapple-ControllerHold-Description", "Hold the button to grapple. With the quick melee button, a tap still does the quick melee. Not on the scanner's button (L1), which a hold opens.");
+    this.Text("ApexGrapple-HoldTime", "Hold time");
+    this.Text("ApexGrapple-HoldTime-Description", "How long to hold for the grapple, in seconds.");
+    this.Text("ApexGrapple-Range", "Range");
+    this.Text("ApexGrapple-Range-Description", "How far the hook reaches, in metres.");
+    this.Text("ApexGrapple-HookSpeed", "Hook speed");
+    this.Text("ApexGrapple-HookSpeed-Description", "How fast the hook flies to its target, in metres a second.");
+    this.Text("ApexGrapple-HookReturn", "Hook return speed");
+    this.Text("ApexGrapple-HookReturn-Description", "How many times faster than on its way out the hook comes back. A new grapple waits for it.");
+    this.Text("ApexGrapple-PullStrength", "Pull strength");
+    this.Text("ApexGrapple-PullStrength-Description", "How hard the rope pulls you, in m/s².");
+    this.Text("ApexGrapple-PullSpeedCap", "Pull speed cap");
+    this.Text("ApexGrapple-PullSpeedCap-Description", "Top speed the rope adds, in metres a second. Your momentum adds to it.");
+    this.Text("ApexGrapple-SteerStrength", "Steering strength");
+    this.Text("ApexGrapple-SteerStrength-Description", "How much your aim bends your path during a pull, in m/s². Keep the crosshair inside a turn to circle round the point. The move keys do nothing until you let go.");
+    this.Text("ApexGrapple-RopeCarry", "Rope carries you");
+    this.Text("ApexGrapple-RopeCarry-Description", "How much of your weight the rope holds while the hook is set, in per cent. At 100 you fly straight where you aimed and fall only once you let go, as in Apex.");
+    this.Text("ApexGrapple-TakeOffLift", "Take-off lift");
+    this.Text("ApexGrapple-TakeOffLift-Description", "A small hop when a pull starts on the ground, in metres a second. At 0 you leave along the floor.");
+    this.Text("ApexGrapple-TakeOffTime", "Take-off time");
+    this.Text("ApexGrapple-TakeOffTime-Description", "The ground is ignored this long at the start of a pull, in seconds, so you can take off.");
+    this.Text("ApexGrapple-HoldToKeepPulling", "Hold to keep pulling");
+    this.Text("ApexGrapple-HoldToKeepPulling-Description", "Releasing the key lets go. A quick tap pulls all the way. On the scanner's button (L1 on a controller), a tap always pulls all the way: a second press lets go.");
+    this.Text("ApexGrapple-ArrivalDistance", "Arrival distance");
+    this.Text("ApexGrapple-ArrivalDistance-Description", "The pull stops this far from the hook, in metres; a shorter shot stops halfway.");
+    this.Text("ApexGrapple-LetGoPastAnchor", "Let go past the point");
+    this.Text("ApexGrapple-LetGoPastAnchor-Description", "Once you fly past the point, the rope no longer pulls you back, and it lets go this far beyond it, in metres. With Stay hooked on, the pull ends there and the hook stays in.");
+    this.Text("ApexGrapple-LongestPull", "Longest pull");
+    this.Text("ApexGrapple-LongestPull-Description", "In seconds. 0 means no limit. With Stay hooked on, it only ends a pull on a vehicle or a person.");
+    this.Text("ApexGrapple-LetGoOnLanding", "Let go on landing");
+    this.Text("ApexGrapple-LetGoOnLanding-Description", "Touching the ground ends the pull.");
+    this.Text("ApexGrapple-StayHooked", "Stay hooked");
+    this.Text("ApexGrapple-StayHooked-Description", "Where the pull would end in the air (arrival, flying past the point, hitting something), the hook stays in, unless what you hit stands between you and the point. You keep your own flight as long as you rise or come toward the point. Then the rope slows you gently and brings you back, and you swing at its end until you hang still under the point, unless the ground comes first. A second press, a jump or the ground lets go, and so does releasing a held key with Hold to keep pulling. Longest pull no longer ends a pull on a surface. On a surface only: hooked to a vehicle or a person, the pull ends as usual.");
+    this.Text("ApexGrapple-PreserveJump", "Preserve jump when detaching");
+    this.Text("ApexGrapple-PreserveJump-Description", "Jumping to let go spends no jump.");
+    this.Text("ApexGrapple-RegainDoubleJump", "Double jump back on each grapple");
+    this.Text("ApexGrapple-RegainDoubleJump-Description", "When the hook catches, V gets the double jump back. Needs the double jump cyberware.");
+    this.Text("ApexGrapple-HookTargets", "Grapple onto vehicles and people");
+    this.Text("ApexGrapple-HookTargets-Description", "The hook also takes vehicles, enemies and passers-by, and follows them as they move. A vehicle pulls V, except a motorcycle with “Pull motorcycles to V” on. Needs Codeware.");
+    this.Text("ApexGrapple-PullPeople", "Pull people to V");
+    this.Text("ApexGrapple-PullPeople-Description", "Works with the setting above on: a person the hook takes is pulled to V, instead of V to them, when the game allows it; otherwise V is pulled (a mission scene, someone sitting in a vehicle). Only humans and androids come: bosses, drones and mechs always pull V.");
+    this.Text("ApexGrapple-PullDamage", "Damage when pulling people");
+    this.Text("ApexGrapple-PullDamage-Description", "Works with “Grapple onto vehicles and people” and “Pull people to V” on: a person pulled to V takes the blows of what they hit and of their fall, as the game counts them; it can kill. Off, the fall and what they hit do them no harm until they lie still; V's shots still hurt.");
+    this.Text("ApexGrapple-PulledSpeed", "Speed of what is pulled to V");
+    this.Text("ApexGrapple-PulledSpeed-Description", "How fast people are pulled to V, in metres a second; motorcycles come at 60 % of it, 50 at most. The hook itself keeps the hook speed.");
+    this.Text("ApexGrapple-PullSlam", "Slam at the end of the pull");
+    this.Text("ApexGrapple-PullSlam-Description", "Works when people or motorcycles are pulled to V: when they arrive, they are slammed into the ground instead of being braked. With “Damage when pulling people” on, a person takes the blow; it can kill. To throw them in the air instead, press the grapple key again before they arrive: the hook lets go and they keep their speed.");
+    this.Text("ApexGrapple-PullBikes", "Pull motorcycles to V");
+    this.Text("ApexGrapple-PullBikes-Description", "Works with “Grapple onto vehicles and people” on: a motorcycle the hook takes is pulled to V and stops about 3 m in front of V; its rider falls off. Aim at the rider to take the rider alone. Off, the hook that meets a ridden motorcycle takes its rider, and V is pulled to a motorcycle with no rider. With “Slam at the end of the pull” on, the motorcycle is slammed into the ground. A thrown motorcycle can hit V.");
+    this.Text("ApexGrapple-SteerPeople", "Steer what is pulled with the aim");
+    this.Text("ApexGrapple-SteerPeople-Description", "Works when people or motorcycles are pulled to V: for the whole pull, the aim raised throws them higher, up to 6 m; the aim turned throws them that way, up to 8 m; the aim lowered 10 degrees or more throws them against the ground. Change the aim and they change direction. A second press lets go at once: they keep their speed. Under 5 degrees they come straight to V.");
+    this.Text("ApexGrapple-GrabPeople", "Grab people with the grapple");
+    this.Text("ApexGrapple-GrabPeople-Description", "Works with “Grapple onto vehicles and people” on, whether they are pulled to V or not: the game's Grab button (the interaction button) held as the grapple fires at a person brings them standing to V, who grabs them from behind as in the game; the game's buttons then kill or knock them out. Without that button, the grapple does what it usually does. Bosses, vendors, V's allies, people on a vehicle and passers-by walking the street are never grabbed, and no one is in a safe zone. On a controller that button also reloads.");
+    this.Text("ApexGrapple-GrabSpeed", "Grab approach speed");
+    this.Text("ApexGrapple-GrabSpeed-Description", "How fast a person is brought to V for a grab, in metres a second.");
+    this.Text("ApexGrapple-PunchWins", "Quick melee wins over grapple");
+    this.Text("ApexGrapple-PunchWins-Description", "Someone or a vehicle within quick melee range gets the quick melee instead of the grapple.");
+    this.Text("ApexGrapple-PunchRange", "Quick melee range");
+    this.Text("ApexGrapple-PunchRange-Description", "Someone or a vehicle closer than this, in metres, gets the quick melee.");
+    this.Text("ApexGrapple-SoftLanding", "Soft landing after a grapple");
+    this.Text("ApexGrapple-SoftLanding-Description", "The landing that follows a grapple does no damage. Off: the game's falls.");
+    this.Text("ApexGrapple-FallEffect", "Fall effect during a grapple");
+    this.Text("ApexGrapple-FallEffect-Description", "The darkening the game shows in a long fall, during a grapple's flight until you land. Off: hidden. Falls on foot always keep it.");
+  }
+}
+
+@if(ModuleExists("Codeware.Localization"))
+public class ApexGrappleFrench extends ModLocalizationPackage {
+  protected func DefineTexts() {
+    this.Text("ApexGrapple-Enabled", "Apex Grapple");
+    this.Text("ApexGrapple-Enabled-Description", "Visez une surface et appuyez sur la touche du coup rapide (Q au clavier ; R3 à la manette, ou L1 en disposition Alternative ou Switch Legacy) : le crochet part et la corde vous tire, pendant que votre visée vous dirige. Éteint : la touche ne fait que le coup rapide.");
+    this.Text("ApexGrapple-Profile1", "Profil 1 : grappin de base");
+    this.Text("ApexGrapple-Profile1-Key", "Profil 1 : touche");
+    this.Text("ApexGrapple-Profile1-Hook", "Profil 1 : bras et crochet");
+    this.Text("ApexGrapple-Profile1-Pull", "Profil 1 : traction");
+    this.Text("ApexGrapple-Profile1-LetGo", "Profil 1 : lâcher");
+    this.Text("ApexGrapple-Profile1-Targets", "Profil 1 : véhicules et personnes");
+    this.Text("ApexGrapple-Profile1-Landing", "Profil 1 : atterrissage");
+    this.Text("ApexGrapple-Profile1-Fov", "Profil 1 : champ de vision");
+    this.Text("ApexGrapple-Profile1-Voice", "Profil 1 : voix de V");
+    this.Text("ApexGrapple-Profile2", "Profil 2");
+    this.Text("ApexGrapple-Profile3", "Profil 3");
+    this.Text("ApexGrapple-Profile4", "Profil 4");
+    this.Text("ApexGrapple-Profile5", "Profil 5");
+    this.Text("ApexGrapple-ShowSettings", "Afficher les réglages");
+    this.Text("ApexGrapple-ShowSettings-Description", "Affiche les réglages de ce profil en dessous. Affichés ou non, le profil marche.");
+    this.Text("ApexGrapple-ProfileActive", "Activé");
+    this.Text("ApexGrapple-ProfileActive-Description", "Ce profil tire son propre grappin avec sa touche et les réglages ci-dessous. Nécessite Codeware.");
+    this.Text("ApexGrapple-ProfileKey", "Touche");
+    this.Text("ApexGrapple-ProfileKey-Description", "La touche du grappin de ce profil. Deux profils sur la même touche : le plus petit numéro tire. La molette ne peut pas servir.");
+    this.Text("ApexGrapple-Implant", "Implant du bras");
+    this.Text("ApexGrapple-Implant-Description", "L'implant d'où votre bras gauche tire le grappin, vu en première personne. Aucun : la corde part de votre main. Nécessite Codeware.");
+    this.Text("ApexGrapple-Implant-None", "Aucun");
+    this.Text("ApexGrapple-Implant-ProjectileLauncher", "Lance-projectile");
+    this.Text("ApexGrapple-RequireLauncher", "Exiger le lance-projectile");
+    this.Text("ApexGrapple-RequireLauncher-Description", "Le grappin ne marche que si V a le lance-projectile installé, affiché ou non. Sans lui, le grappin ne part pas.");
+    this.Text("ApexGrapple-OwnKey", "Touche à part");
+    this.Text("ApexGrapple-OwnKey-Description", "Lancer le grappin avec une touche au choix au lieu de celle du coup rapide. Nécessite Codeware.");
+    this.Text("ApexGrapple-Key", "Touche");
+    this.Text("ApexGrapple-Key-Description", "La touche du grappin, quand « Touche à part » est allumée. La molette ne peut pas servir.");
+    this.Text("ApexGrapple-KeyboardHold", "Clavier : maintenir pour le grappin");
+    this.Text("ApexGrapple-KeyboardHold-Description", "Maintenir la touche lance le grappin. Avec la touche du coup rapide, un appui bref fait toujours le coup rapide. Pas sur la touche du scanner, qu'un appui long ouvre.");
+    this.Text("ApexGrapple-ControllerHold", "Manette : maintenir pour le grappin");
+    this.Text("ApexGrapple-ControllerHold-Description", "Maintenir le bouton lance le grappin. Avec le bouton du coup rapide, un appui bref fait toujours le coup rapide. Pas sur le bouton du scanner (L1), qu'un appui long ouvre.");
+    this.Text("ApexGrapple-HoldTime", "Durée du maintien");
+    this.Text("ApexGrapple-HoldTime-Description", "Combien de temps maintenir pour le grappin, en secondes.");
+    this.Text("ApexGrapple-Range", "Portée");
+    this.Text("ApexGrapple-Range-Description", "Jusqu'où le crochet porte, en mètres.");
+    this.Text("ApexGrapple-HookSpeed", "Vitesse du crochet");
+    this.Text("ApexGrapple-HookSpeed-Description", "La vitesse du crochet jusqu'à sa cible, en mètres par seconde.");
+    this.Text("ApexGrapple-HookReturn", "Vitesse de retour du crochet");
+    this.Text("ApexGrapple-HookReturn-Description", "Combien de fois plus vite qu'à l'aller le crochet revient. Un nouveau grappin l'attend.");
+    this.Text("ApexGrapple-PullStrength", "Force de traction");
+    this.Text("ApexGrapple-PullStrength-Description", "La force avec laquelle la corde vous tire, en m/s².");
+    this.Text("ApexGrapple-PullSpeedCap", "Vitesse maximale de traction");
+    this.Text("ApexGrapple-PullSpeedCap-Description", "La vitesse maximale que la corde ajoute, en mètres par seconde. Votre élan s'y ajoute.");
+    this.Text("ApexGrapple-SteerStrength", "Force du pilotage");
+    this.Text("ApexGrapple-SteerStrength-Description", "À quel point votre visée courbe votre trajet pendant la traction, en m/s². Gardez le viseur à l'intérieur d'un virage pour tourner autour du point. Les touches de déplacement ne font rien avant le lâcher.");
+    this.Text("ApexGrapple-RopeCarry", "La corde vous porte");
+    this.Text("ApexGrapple-RopeCarry-Description", "La part de votre poids que tient la corde tant que le crochet est planté, en pour cent. À 100 vous partez droit où vous avez visé et ne tombez qu'au lâcher, comme dans Apex.");
+    this.Text("ApexGrapple-TakeOffLift", "Élan de décollage");
+    this.Text("ApexGrapple-TakeOffLift-Description", "Un petit bond quand la traction part du sol, en mètres par seconde. À 0 vous partez au ras du sol.");
+    this.Text("ApexGrapple-TakeOffTime", "Temps de décollage");
+    this.Text("ApexGrapple-TakeOffTime-Description", "Le sol ne compte pas pendant ce temps au début de la traction, en secondes, pour pouvoir décoller.");
+    this.Text("ApexGrapple-HoldToKeepPulling", "Maintenir pour tirer");
+    this.Text("ApexGrapple-HoldToKeepPulling-Description", "Relâcher la touche lâche la corde. Un appui bref tire jusqu'au bout. Sur le bouton du scanner (L1 à la manette), un appui bref tire toujours jusqu'au bout : un second appui lâche la corde.");
+    this.Text("ApexGrapple-ArrivalDistance", "Distance d'arrivée");
+    this.Text("ApexGrapple-ArrivalDistance-Description", "La traction s'arrête à cette distance du crochet, en mètres ; un tir plus court s'arrête à mi-chemin.");
+    this.Text("ApexGrapple-LetGoPastAnchor", "Lâcher après le point");
+    this.Text("ApexGrapple-LetGoPastAnchor-Description", "Une fois le point dépassé, la corde ne vous tire plus en arrière, et elle lâche à cette distance au-delà, en mètres. Avec « Rester accroché », la traction finit là et le crochet reste planté.");
+    this.Text("ApexGrapple-LongestPull", "Traction la plus longue");
+    this.Text("ApexGrapple-LongestPull-Description", "En secondes. 0 : sans limite. Avec « Rester accroché », elle ne coupe plus qu'une traction sur un véhicule ou une personne.");
+    this.Text("ApexGrapple-LetGoOnLanding", "Lâcher à l'atterrissage");
+    this.Text("ApexGrapple-LetGoOnLanding-Description", "Toucher le sol termine la traction.");
+    this.Text("ApexGrapple-StayHooked", "Rester accroché");
+    this.Text("ApexGrapple-StayHooked-Description", "Là où la traction finirait en l'air (arrivée, passage à côté du point, choc), le crochet reste planté, sauf si ce que vous heurtez se trouve entre vous et le point. Vous gardez votre vol tant que vous montez ou que vous allez vers le point. Ensuite la corde vous retient en douceur et vous ramène, et vous vous balancez au bout jusqu'à pendre immobile sous le point, sauf si le sol arrive avant. Un second appui, un saut ou le sol lâche la corde, et relâcher une touche maintenue aussi avec « Maintenir pour tirer ». La traction la plus longue ne coupe plus une traction sur une surface. Sur une surface seulement : accroché à un véhicule ou à une personne, la traction finit comme d'habitude.");
+    this.Text("ApexGrapple-PreserveJump", "Garder le saut au lâcher");
+    this.Text("ApexGrapple-PreserveJump-Description", "Sauter pour lâcher ne dépense aucun saut.");
+    this.Text("ApexGrapple-RegainDoubleJump", "Double saut rendu à chaque grappin");
+    this.Text("ApexGrapple-RegainDoubleJump-Description", "Quand le crochet s'accroche, V retrouve son double saut. Demande l'implant de double saut.");
+    this.Text("ApexGrapple-HookTargets", "Grappin sur les véhicules et les personnes");
+    this.Text("ApexGrapple-HookTargets-Description", "Le crochet prend aussi les véhicules, les ennemis et les passants, et les suit quand ils bougent. Un véhicule tire V, sauf une moto avec « Tirer les motos vers V » allumé. Demande Codeware.");
+    this.Text("ApexGrapple-PullPeople", "Tirer les personnes vers V");
+    this.Text("ApexGrapple-PullPeople-Description", "Marche avec le réglage du dessus allumé : la personne prise vient vers V, au lieu de V vers elle, quand le jeu le permet ; sinon V est tiré (scène de mission, personne assise dans un véhicule). Seuls les humains et les androïdes viennent : les boss, les drones et les mechs tirent toujours V.");
+    this.Text("ApexGrapple-PullDamage", "Dégâts quand la personne est tirée");
+    this.Text("ApexGrapple-PullDamage-Description", "Marche avec « Grappin sur les véhicules et les personnes » et « Tirer les personnes vers V » allumés : la personne tirée vers V prend les chocs de ce qu'elle heurte et de sa chute, comme le jeu les compte ; elle peut en mourir. Éteint, la chute et ce qu'elle heurte ne la blessent pas jusqu'à ce qu'elle soit immobile ; les tirs de V la blessent toujours.");
+    this.Text("ApexGrapple-PulledSpeed", "Vitesse de ce qui est tiré vers V");
+    this.Text("ApexGrapple-PulledSpeed-Description", "La vitesse à laquelle les personnes sont tirées vers V, en mètres par seconde ; les motos viennent à 60 % de cette vitesse, 50 au plus. Le crochet lui-même garde la vitesse du crochet.");
+    this.Text("ApexGrapple-PullSlam", "Plaquer au sol à la fin de la traction");
+    this.Text("ApexGrapple-PullSlam-Description", "Marche quand les personnes ou les motos sont tirées vers V : à leur arrivée, elles sont plaquées au sol au lieu d'être freinées. Avec « Dégâts quand la personne est tirée » allumé, la personne prend le choc ; elle peut en mourir. Pour les projeter en l'air à la place, rappuie sur la touche du grappin avant leur arrivée : le grappin lâche et elles gardent leur vitesse.");
+    this.Text("ApexGrapple-PullBikes", "Tirer les motos vers V");
+    this.Text("ApexGrapple-PullBikes-Description", "Marche avec « Grappin sur les véhicules et les personnes » allumé : la moto prise vient vers V et s'arrête à environ 3 m devant V ; son motard en tombe. Vise le motard pour ne prendre que lui. Éteint, le crochet qui touche une moto montée prend son motard, et V est tiré vers une moto sans motard. Avec « Plaquer au sol à la fin de la traction » allumé, la moto est plaquée au sol. Une moto lancée peut toucher V.");
+    this.Text("ApexGrapple-SteerPeople", "Diriger au viseur ce qui est tiré");
+    this.Text("ApexGrapple-SteerPeople-Description", "Marche quand les personnes ou les motos sont tirées vers V : pendant toute la traction, le viseur levé les projette plus haut, jusqu'à 6 m ; le viseur tourné les projette de ce côté, jusqu'à 8 m ; le viseur baissé de 10 degrés ou plus les projette contre le sol. Change de visée et elles changent de direction. Un deuxième appui lâche tout de suite : elles gardent leur vitesse. Sous 5 degrés, elles viennent droit vers V.");
+    this.Text("ApexGrapple-GrabPeople", "Saisir les personnes au grappin");
+    this.Text("ApexGrapple-GrabPeople-Description", "Marche avec « Grappin sur les véhicules et les personnes » allumé, que les personnes soient tirées vers V ou non : le bouton « Saisir » du jeu (celui des interactions) tenu au moment où le grappin part sur une personne l'amène debout jusqu'à V, qui la saisit par derrière comme dans le jeu ; les boutons du jeu permettent ensuite de la tuer ou de la neutraliser. Sans ce bouton, le grappin fait ce qu'il fait d'habitude. Les boss, les vendeurs, les alliés de V, les personnes sur un véhicule et les passants qui marchent dans la rue ne sont jamais saisis, et personne ne l'est dans une zone sûre. À la manette, ce bouton recharge aussi l'arme.");
+    this.Text("ApexGrapple-GrabSpeed", "Vitesse d'amenée pour la saisie");
+    this.Text("ApexGrapple-GrabSpeed-Description", "La vitesse à laquelle la personne est amenée jusqu'à V pour être saisie, en mètres par seconde.");
+    this.Text("ApexGrapple-PunchWins", "Le coup rapide passe avant le grappin");
+    this.Text("ApexGrapple-PunchWins-Description", "Une personne ou un véhicule à portée du coup rapide le reçoit au lieu du grappin.");
+    this.Text("ApexGrapple-PunchRange", "Portée du coup rapide");
+    this.Text("ApexGrapple-PunchRange-Description", "Une personne ou un véhicule plus proche que cette distance, en mètres, reçoit le coup rapide.");
+    this.Text("ApexGrapple-SoftLanding", "Atterrissage sans dégâts");
+    this.Text("ApexGrapple-SoftLanding-Description", "L'atterrissage qui suit un grappin ne fait pas de dégâts. Éteint : les chutes du jeu.");
+    this.Text("ApexGrapple-FallEffect", "Effet de chute pendant le grappin");
+    this.Text("ApexGrapple-FallEffect-Description", "L'assombrissement que le jeu montre pendant une longue chute, pendant le vol du grappin et jusqu'à l'atterrissage. Éteint : masqué. Les chutes à pied le gardent toujours.");
+  }
+}

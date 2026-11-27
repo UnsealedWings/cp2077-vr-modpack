@@ -99,6 +99,8 @@ if not defined EXTRACTED (
 
 :: --- Copy ---
 echo   [3/5] Installing mod files...
+:: Removed mod: "Better Finer Rain" made rain too thin -- delete any leftover copy
+del /q "!CPDIR!\archive\pc\mod\Better_Finer_Rain_V6.0.archive" 2>nul
 if "!VR!"=="1" (
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
   :: VR included -> remove standalone redscript so the VR port's bundled redscript is used
