@@ -469,8 +469,8 @@
                     "name": "DLSS_BackendPreset",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Transformer2",
-                    "index": 1,
+                    "value": "Transformer",
+                    "index": 0,
                     "default_index": 0,
                     "values": [
                         "Transformer",
@@ -497,7 +497,7 @@
                 {
                     "name": "DLAA_NewSharpness",
                     "type": "float",
-                    "value": 0.0500000007,
+                    "value": 0.0,
                     "default_value": 0.0,
                     "min_value": 0.0,
                     "max_value": 1.0,
@@ -1743,15 +1743,15 @@
                 {
                     "name": "FacialTangentUpdates",
                     "type": "bool",
-                    "value": true,
+                    "value": false,
                     "default_value": true
                 },
                 {
                     "name": "Anisotropy",
                     "type": "int_list",
                     "is_dynamic": false,
-                    "value": 16,
-                    "index": 3,
+                    "value": 8,
+                    "index": 2,
                     "default_index": 0,
                     "values": [
                         1,
@@ -1951,8 +1951,8 @@
                     "name": "LODPreset",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "High",
-                    "index": 2,
+                    "value": "Medium",
+                    "index": 1,
                     "default_index": 1,
                     "values": [
                         "Low",
