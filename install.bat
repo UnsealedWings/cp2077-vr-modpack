@@ -101,6 +101,13 @@ if not defined EXTRACTED (
 echo   [3/5] Installing mod files...
 :: Removed mod: "Better Finer Rain" made rain too thin -- delete any leftover copy
 del /q "!CPDIR!\archive\pc\mod\Better_Finer_Rain_V6.0.archive" 2>nul
+:: Removed mods: "Immersive Rippers / Food Vendors / Bartenders" -- delete any leftover copies
+del /q "!CPDIR!\archive\pc\mod\ImmersiveRippers.archive" 2>nul
+del /q "!CPDIR!\archive\pc\mod\ImmersiveRippers.archive.xl" 2>nul
+del /q "!CPDIR!\archive\pc\mod\ImmersiveFoodVendors.archive" 2>nul
+del /q "!CPDIR!\archive\pc\mod\ImmersiveFoodVendorsLoc.archive.xl" 2>nul
+del /q "!CPDIR!\archive\pc\mod\ImmersiveBartenders.archive" 2>nul
+rmdir /s /q "!CPDIR!\r6\scripts\ImmersiveRippers" 2>nul
 if "!VR!"=="1" (
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
   :: VR included -> remove standalone redscript so the VR port's bundled redscript is used
