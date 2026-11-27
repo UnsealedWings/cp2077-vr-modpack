@@ -2768,8 +2768,8 @@ function M.frame(weapon, slotComp, holder, dt)
             -- a handle on the TRIGGER takes the left trigger off the game while the hand is on it or offered it --
             -- it is the aim everywhere else (sent by the magazine block, which also has a claim on it)
             slideS.ltNear = sc.grabWith == 'trigger' and free == aimHand()
-                            and (slideS.grabbed or (best ~= nil and bestD <= (sc.previewRadius or 0.05)))
-            if best and bestD <= (sc.previewRadius or 0.05) and not magNearer then
+                            and (slideS.grabbed or (best ~= nil and bestD <= (sc.previewRadius or 0.07)))
+            if best and bestD <= (sc.previewRadius or 0.07) and not magNearer and not M.twoHand() then
                 -- A HANDLE ON THE TRIGGER IS OFFERED TO THE TRIGGER FINGER, NOT TO THE HAND. The preview's fingers
                 -- are a claim on the hand, and the two-hand hold lets go of -- and spends the grip of -- any hand
                 -- the reload claims. A handle at the fore-end (the Copperhead's lever, the Umbra's, the
@@ -4316,7 +4316,7 @@ function M.frame(weapon, slotComp, holder, dt)
                 -- distant slide than a low pouch must not block the body zone.
                 local busy = slideS.grabbed or slideS.releasing
                     or (magS.slideHasPose and slD2 >= 0
-                        and (atBody and slD2 <= (sc.previewRadius or 0.05)
+                        and (atBody and slD2 <= (sc.previewRadius or 0.07)
                              or not atBody and goneD >= 0 and slD2 < goneD))
                 if atBody then catchW = 1.0 end
                 if busy then catchW = 0.0 end
