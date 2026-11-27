@@ -43,7 +43,7 @@ public class ApexGrappleCrosshairSettings {
   @runtimeProperty("ModSettings.displayValues.MantisBlades", "ApexGrapple-CrosshairShape-MantisBlades")
   @runtimeProperty("ModSettings.displayValues.HeavyMachineGun", "ApexGrapple-CrosshairShape-HeavyMachineGun")
   @runtimeProperty("ModSettings.displayValues.Dot", "ApexGrapple-CrosshairShape-Dot")
-  public let shape: ApexGrappleCrosshairShape = ApexGrappleCrosshairShape.Simple;
+  public let shape: ApexGrappleCrosshairShape = ApexGrappleCrosshairShape.Off;
 
   // Shown only while the aim key is held (CrosshairAim.reds). Off by default: Kevin, 17 November 2026.
   @runtimeProperty("ModSettings.mod", "Apex Grapple")
