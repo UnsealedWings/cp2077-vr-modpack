@@ -106,7 +106,7 @@ public class ApexGrappleSettings {
   @runtimeProperty("ModSettings.description", "ApexGrapple-Range-Description")
   @runtimeProperty("ModSettings.step", "1.0")
   @runtimeProperty("ModSettings.min", "5.0")
-  @runtimeProperty("ModSettings.max", "500.0")
+  @runtimeProperty("ModSettings.max", "5000.0")
   @runtimeProperty("ModSettings.dependency", "showSettings")
   public let range: Float = 120.0;
 
