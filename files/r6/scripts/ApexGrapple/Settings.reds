@@ -72,7 +72,7 @@ public class ApexGrappleSettings {
   @runtimeProperty("ModSettings.displayName", "ApexGrapple-HoldTime")
   @runtimeProperty("ModSettings.description", "ApexGrapple-HoldTime-Description")
   @runtimeProperty("ModSettings.step", "0.05")
-  @runtimeProperty("ModSettings.min", "0.2")
+  @runtimeProperty("ModSettings.min", "0.0")
   @runtimeProperty("ModSettings.max", "1.0")
   @runtimeProperty("ModSettings.dependency", "showSettings")
   public let holdTime: Float = 0.4;
@@ -106,7 +106,7 @@ public class ApexGrappleSettings {
   @runtimeProperty("ModSettings.description", "ApexGrapple-Range-Description")
   @runtimeProperty("ModSettings.step", "1.0")
   @runtimeProperty("ModSettings.min", "5.0")
-  @runtimeProperty("ModSettings.max", "150.0")
+  @runtimeProperty("ModSettings.max", "500.0")
   @runtimeProperty("ModSettings.dependency", "showSettings")
   public let range: Float = 120.0;
 
@@ -253,7 +253,7 @@ public class ApexGrappleSettings {
   @runtimeProperty("ModSettings.displayName", "ApexGrapple-ArrivalDistance")
   @runtimeProperty("ModSettings.description", "ApexGrapple-ArrivalDistance-Description")
   @runtimeProperty("ModSettings.step", "0.1")
-  @runtimeProperty("ModSettings.min", "0.2")
+  @runtimeProperty("ModSettings.min", "0.0")
   @runtimeProperty("ModSettings.max", "20.0")
   @runtimeProperty("ModSettings.dependency", "showSettings")
   public let arrivalDistance: Float = 8.0;
