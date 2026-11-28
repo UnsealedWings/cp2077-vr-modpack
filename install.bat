@@ -5,15 +5,32 @@ title Cyberpunk 2077 VR Modpack - Installer / Updater
 :: ================= CONFIG =================
 set "REPO_ZIP=https://github.com/UnsealedWings/cp2077-vr-modpack/archive/refs/heads/main.zip"
 set "VERSION_URL=https://raw.githubusercontent.com/UnsealedWings/cp2077-vr-modpack/main/version.txt"
+set "SELF_URL=https://raw.githubusercontent.com/UnsealedWings/cp2077-vr-modpack/main/install.bat"
 :: ==========================================
+
+:: The game folder is where this installer lives. The self-update re-runs this
+:: bat from %TEMP%, so on that re-run the real folder is passed as the 2nd arg.
+set "CPDIR=%~dp0"
+if not "%~2"=="" set "CPDIR=%~2"
+if "!CPDIR:~-1!"=="\" set "CPDIR=!CPDIR:~0,-1!"
+
+:: --- Self-update: always run the latest install.bat from the repo ---
+if "%~1"=="__updated__" goto :main
+
+echo   Updating installer...
+del /q "%TEMP%\cp2077_install_latest.bat" 2>nul
+powershell -NoProfile -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%SELF_URL%' -OutFile '%TEMP%\cp2077_install_latest.bat' -UseBasicParsing; exit 0 } catch { exit 1 }"
+if exist "%TEMP%\cp2077_install_latest.bat" (
+  call "%TEMP%\cp2077_install_latest.bat" __updated__ "!CPDIR!"
+  del /q "%TEMP%\cp2077_install_latest.bat" 2>nul
+  exit /b 0
+)
+
+:main
 
 set "MARKER=.cp2077_vr_modpack_installed"
 set "ZIP=%TEMP%\cp2077-vr-modpack.zip"
 set "TMP=%TEMP%\cp2077-vr-modpack"
-
-:: The game folder is wherever this BAT is located.
-set "CPDIR=%~dp0"
-if "!CPDIR:~-1!"=="\" set "CPDIR=!CPDIR:~0,-1!"
 
 echo.
 echo  ==================================================
