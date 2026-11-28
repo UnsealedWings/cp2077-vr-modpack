@@ -59,34 +59,35 @@ public func ApexGrappleLeftHand(system: ref<ApexGrappleSystem>, scriptInterface:
 }
 
 
-// The left hand's aim: its world position and the +Y the hand points (its barrel). Read from the same
-// slot ApexGrappleLeftHand reads; in VR the IK puts that slot on the controller, so the grapple can
-// aim from the hand instead of the camera's centre.
+// The left hand's aim: the motion controller's world position and forward (+Y, its barrel). In VR the
+// controller rotation from VRCyberwareFrame gives the forward from the hand's pitch, so the grapple always
+// aims from the hand; without the VR port it returns nothing and the camera is used.
 public struct ApexGrappleHandAim {
   let found: Bool;
   let from: Vector4;
   let forward: Vector4;
 }
 
+@if(ModuleExists("cyberpunkvrport"))
 public func ApexGrappleLeftHandAim(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>) -> ApexGrappleHandAim {
   let aim: ApexGrappleHandAim;
-  if !ApexGrappleHandSlotsFound(system, scriptInterface) {
-    return aim;
+  let frame: array<Vector4> = VRCyberwareFrame();
+  if ArraySize(frame) >= 5 {
+    let q: Vector4 = frame[4];
+    aim.from = frame[2];
+    aim.from.W = 1.0;
+    aim.forward.X = 2.0 * (q.X * q.Y - q.Z * q.W);
+    aim.forward.Y = 1.0 - 2.0 * (q.X * q.X + q.Z * q.Z);
+    aim.forward.Z = 2.0 * (q.Y * q.Z + q.X * q.W);
+    aim.forward.W = 0.0;
+    aim.found = true;
   }
-  let slots: ref<SlotComponent> = system.handSlots;
-  let place: WorldTransform;
-  if !slots.GetSlotTransform(n"WeaponLeft", place) {
-    return aim;
-  }
-  let at: Vector4 = WorldPosition.ToVector4(WorldTransform.GetWorldPosition(place));
-  at.W = 1.0;
-  aim.from = at;
-  let q: Quaternion = place.Orientation;
-  aim.forward.X = 2.0 * (q.i * q.j - q.k * q.r);
-  aim.forward.Y = 1.0 - 2.0 * (q.i * q.i + q.k * q.k);
-  aim.forward.Z = 2.0 * (q.j * q.k + q.i * q.r);
-  aim.forward.W = 0.0;
-  aim.found = true;
+  return aim;
+}
+
+@if(!ModuleExists("cyberpunkvrport"))
+public func ApexGrappleLeftHandAim(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>) -> ApexGrappleHandAim {
+  let aim: ApexGrappleHandAim;
   return aim;
 }
 
