@@ -60,19 +60,25 @@ echo.
 echo   Choose what to install:
 echo     [1] Full modpack (with Cyberpunk VR)
 echo     [2] Everything except VR
+echo     [3] Cyberpunk VR only, fresh (no configs - game generates defaults)
 echo.
 :vrchoice
-set /p "CHOICE=  Enter 1 or 2: "
-if "!CHOICE!"=="1" ( set "VR=1" ) else if "!CHOICE!"=="2" ( set "VR=0" ) else ( goto vrchoice )
+set "FRESH=0"
+set /p "CHOICE=  Enter 1, 2 or 3: "
+if "!CHOICE!"=="1" ( set "VR=1" ) else if "!CHOICE!"=="2" ( set "VR=0" ) else if "!CHOICE!"=="3" ( set "VR=1" & set "FRESH=1" ) else ( goto vrchoice )
 
 :: --- Overwrite prompt (asked every install; Enter = overwrite) ---
 set "OW=Y"
-if "!VR!"=="1" (
-  set /p "OW=  Overwrite graphics options and configs with the modpack defaults? [Y/N] default Y: "
+if "!FRESH!"=="1" (
+  set "OVERWRITE=0"
 ) else (
-  set /p "OW=  Overwrite configs with the modpack defaults? [Y/N] default Y: "
+  if "!VR!"=="1" (
+    set /p "OW=  Overwrite graphics options and configs with the modpack defaults? [Y/N] default Y: "
+  ) else (
+    set /p "OW=  Overwrite configs with the modpack defaults? [Y/N] default Y: "
+  )
+  if /i "!OW!"=="n" ( set "OVERWRITE=0" ) else ( set "OVERWRITE=1" )
 )
-if /i "!OW!"=="n" ( set "OVERWRITE=0" ) else ( set "OVERWRITE=1" )
 
 :: --- Download ---
 echo.
@@ -109,12 +115,22 @@ del /q "!CPDIR!\archive\pc\mod\ImmersiveFoodVendorsLoc.archive.xl" 2>nul
 del /q "!CPDIR!\archive\pc\mod\ImmersiveBartenders.archive" 2>nul
 rmdir /s /q "!CPDIR!\r6\scripts\ImmersiveRippers" 2>nul
 if "!VR!"=="1" (
+  if "!FRESH!"=="1" rmdir /s /q "!CPDIR!\red4ext\plugins\cyberpunkvrport" 2>nul
   robocopy "!EXTRACTED!\files" "!CPDIR!" /E /NFL /NDL /NJH /NJS /NP >nul
   :: VR included -> remove standalone redscript so the VR port's bundled redscript is used
   del /q "!CPDIR!\engine\tools\scc.exe" 2>nul
   del /q "!CPDIR!\engine\tools\scc_lib.dll" 2>nul
   del /q "!CPDIR!\engine\config\base\scripts.ini" 2>nul
   del /q "!CPDIR!\r6\config\cybercmd\scc.toml" 2>nul
+  if "!FRESH!"=="1" (
+    :: Fresh: drop every config the game regenerates, so defaults are built on first launch.
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\config\vrik_calibration.ini" 2>nul
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\config\UserSettings.json" 2>nul
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\config\vrport.ini" 2>nul
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\config\physhands.ini" 2>nul
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\lua\CyberpunkVRPort_VRIK\vrik_recenter.ini" 2>nul
+    del /q "!CPDIR!\red4ext\plugins\cyberpunkvrport\lua\CyberpunkVRPort_VRIK\vrik_settings.ini" 2>nul
+  )
 ) else (
   :: VR excluded -> remove any previously-installed VR mod so the swap is clean
   rmdir /s /q "!CPDIR!\red4ext\plugins\cyberpunkvrport" 2>nul
@@ -149,7 +165,11 @@ if "!OVERWRITE!"=="1" (
     robocopy "!EXTRACTED!\configs" "!CPDIR!" /E /XF UserSettings.json /XD cyberpunkvrport /NFL /NDL /NJH /NJS /NP >nul
   )
 ) else (
-  echo   [5/5] Keeping your existing configs and graphics.
+  if "!FRESH!"=="1" (
+    echo   [5/5] Skipping configs - game will generate fresh defaults on first launch.
+  ) else (
+    echo   [5/5] Keeping your existing configs and graphics.
+  )
 )
 
 :: --- First install: trigger the VR port's one-time setup (UserSettings merge) ---
