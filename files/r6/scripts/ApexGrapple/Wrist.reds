@@ -75,7 +75,7 @@ public func ApexGrappleLeftHandAim(system: ref<ApexGrappleSystem>, scriptInterfa
   }
   let slots: ref<SlotComponent> = system.handSlots;
   let place: WorldTransform;
-  if !slots.GetSlotTransform(n"WeaponLeft", place) && !slots.GetSlotTransform(n"LeftHand", place) {
+  if !slots.GetSlotTransform(n"WeaponLeft", place) {
     return aim;
   }
   let at: Vector4 = WorldPosition.ToVector4(WorldTransform.GetWorldPosition(place));

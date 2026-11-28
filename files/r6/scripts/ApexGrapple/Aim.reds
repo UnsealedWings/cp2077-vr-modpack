@@ -3,6 +3,13 @@
 // planted even if the object falls), vehicles and people, and what the game's targeting looks at. The rule that judges
 // it for a profile, the shot's and the crosshair's alike, is in AimRule.reds.
 
+// How the grapple aims (setting aimMode). LeftHand reads the left hand's WeaponLeft slot (VR); Camera is the
+// vanilla view ray, for flatscreen. LeftHand falls back to the camera when the left hand holds nothing.
+enum ApexGrappleAimMode {
+  LeftHand = 0,
+  Camera = 1
+}
+
 public struct ApexGrappleAim {
   let found: Bool;
   let anchor: Vector4;
@@ -164,8 +171,11 @@ public func ApexGrappleLook(scriptInterface: ref<StateGameScriptInterface>, leng
 // A look counted for the log's cost line (Cost.reds) and kept for the rest of its frame: the range indicator, last in
 // the frame, takes the decision's when it would look as far, rather than cast the same six rays again from the same
 // camera (A10). Judged in the frame it was cast, as any sight.
-public func ApexGrappleLookFor(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>, length: Float) -> ApexGrappleSight {
-  let aim: ApexGrappleHandAim = ApexGrappleLeftHandAim(system, scriptInterface);
+public func ApexGrappleLookFor(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>, length: Float, aimMode: ApexGrappleAimMode) -> ApexGrappleSight {
+  let aim: ApexGrappleHandAim;
+  if Equals(aimMode, ApexGrappleAimMode.LeftHand) {
+    aim = ApexGrappleLeftHandAim(system, scriptInterface);
+  }
   let sight: ApexGrappleSight = ApexGrappleLook(scriptInterface, length, aim.from, aim.forward);
   system.sightKept = sight;
   system.sightKeptIn = system.frames;

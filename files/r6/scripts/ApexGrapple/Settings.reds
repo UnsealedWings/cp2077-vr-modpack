@@ -88,6 +88,17 @@ public class ApexGrappleSettings {
   @runtimeProperty("ModSettings.dependency", "showSettings")
   public let implant: ApexGrappleImplant = ApexGrappleImplant.ProjectileLauncher;
 
+  // How the grapple aims: from the left hand (VR) or the camera (flatscreen).
+  @runtimeProperty("ModSettings.mod", "Apex Grapple")
+  @runtimeProperty("ModSettings.category", "ApexGrapple-Profile1-Hook")
+  @runtimeProperty("ModSettings.category.order", "3")
+  @runtimeProperty("ModSettings.displayName", "ApexGrapple-AimMode")
+  @runtimeProperty("ModSettings.description", "ApexGrapple-AimMode-Description")
+  @runtimeProperty("ModSettings.displayValues.LeftHand", "ApexGrapple-AimMode-LeftHand")
+  @runtimeProperty("ModSettings.displayValues.Camera", "ApexGrapple-AimMode-Camera")
+  @runtimeProperty("ModSettings.dependency", "showSettings")
+  public let aimMode: ApexGrappleAimMode = ApexGrappleAimMode.LeftHand;
+
   @runtimeProperty("ModSettings.mod", "Apex Grapple")
   @runtimeProperty("ModSettings.category", "ApexGrapple-Profile1-Hook")
   @runtimeProperty("ModSettings.category.order", "3")

@@ -146,5 +146,5 @@ public func ApexGrappleAimIn(sight: ApexGrappleSight, settings: ref<ApexGrappleS
 }
 
 public func ApexGrappleAimNow(system: ref<ApexGrappleSystem>, scriptInterface: ref<StateGameScriptInterface>, settings: ref<ApexGrappleSettings>) -> ApexGrappleAim {
-  return ApexGrappleAimIn(ApexGrappleLookFor(system, scriptInterface, settings.range), settings);
+  return ApexGrappleAimIn(ApexGrappleLookFor(system, scriptInterface, settings.range, settings.aimMode), settings);
 }

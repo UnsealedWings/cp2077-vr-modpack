@@ -113,7 +113,7 @@ public func ApexGrappleCrosshairRangeFrame(system: ref<ApexGrappleSystem>, now: 
   if system.sightKeptIn == system.frames && system.sightKeptLength == settings.range {
     sight = system.sightKept;
   } else {
-    sight = ApexGrappleLookFor(system, scriptInterface, settings.range);
+    sight = ApexGrappleLookFor(system, scriptInterface, settings.range, settings.aimMode);
   }
   let fires: Bool = false;
   // Why it would not fire, for the log: profile 1 may ask for the launcher while V has none.

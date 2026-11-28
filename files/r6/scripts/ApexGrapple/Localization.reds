@@ -50,6 +50,10 @@ public class ApexGrappleEnglish extends ModLocalizationPackage {
     this.Text("ApexGrapple-Implant-Description", "The implant your left arm fires the grapple from, seen in first person. None: the rope leaves from your hand. Needs Codeware.");
     this.Text("ApexGrapple-Implant-None", "None");
     this.Text("ApexGrapple-Implant-ProjectileLauncher", "Projectile Launch System");
+    this.Text("ApexGrapple-AimMode", "Aim from");
+    this.Text("ApexGrapple-AimMode-Description", "Where the grapple aims. Left hand: your left hand's weapon (VR); falls back to the camera when your hand is empty. Camera: the view, as the vanilla grapple does.");
+    this.Text("ApexGrapple-AimMode-LeftHand", "Left hand");
+    this.Text("ApexGrapple-AimMode-Camera", "Camera");
     this.Text("ApexGrapple-RequireLauncher", "Require the Projectile Launch System");
     this.Text("ApexGrapple-RequireLauncher-Description", "The grapple works only if V has the Projectile Launch System installed, shown or not. Without it, the grapple does not fire.");
     this.Text("ApexGrapple-OwnKey", "Own key");
@@ -153,6 +157,10 @@ public class ApexGrappleFrench extends ModLocalizationPackage {
     this.Text("ApexGrapple-Implant-Description", "L'implant d'où votre bras gauche tire le grappin, vu en première personne. Aucun : la corde part de votre main. Nécessite Codeware.");
     this.Text("ApexGrapple-Implant-None", "Aucun");
     this.Text("ApexGrapple-Implant-ProjectileLauncher", "Lance-projectile");
+    this.Text("ApexGrapple-AimMode", "Visée depuis");
+    this.Text("ApexGrapple-AimMode-Description", "D'où le grappin vise. Main gauche : l'arme de votre main gauche (VR) ; revient à la caméra quand la main est vide. Caméra : la vue, comme le grappin d'origine.");
+    this.Text("ApexGrapple-AimMode-LeftHand", "Main gauche");
+    this.Text("ApexGrapple-AimMode-Camera", "Caméra");
     this.Text("ApexGrapple-RequireLauncher", "Exiger le lance-projectile");
     this.Text("ApexGrapple-RequireLauncher-Description", "Le grappin ne marche que si V a le lance-projectile installé, affiché ou non. Sans lui, le grappin ne part pas.");
     this.Text("ApexGrapple-OwnKey", "Touche à part");
